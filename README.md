@@ -1,9 +1,11 @@
 # awesome-Federated-Learning
 The repository collects papers(mainly from arxiv.org), Frameworks, projects, datasets of federated learning:
 
-> * Papers   
-> ** [Introduction&Survey](.)  
-> ** [Speech Recognition](https://github.com/ChanChiChoi/awesome-Federated-Learning#speech-recognition)  
+# Papers   
+---
+> * [Introduction&Survey](.)  
+> * [Speech Recognition](https://github.com/ChanChiChoi/awesome-Federated-Learning#speech-recognition)  
+---
 > * [Framework]  
 > * [Projects]  
 > * [Datasets]  
