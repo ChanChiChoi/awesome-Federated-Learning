@@ -60,9 +60,73 @@ also, some papers and links collected from:
 ---
 ## Introduction && Survey
 
+## Distributed Optimization
+
+## Non-IID and Model Personalization
+
+## Semi-Supervised Learning
+
+## Vertical Federated Learning
+
+## Hierarchical Federated Learning
+
+## Decentralized Federated Learning
+
+## Federated Transfer Learning
+
+## Neural Architecture Search
+
+## Continual Learning
+
+## Domain Adaptation
+
+## Reinforcement Learning
+
+## Bayesian Learning
+
+## Adversarial-Attack-and-Defense
+
+## Privacy
+
+## Fairness
+
+## Interpretability
+
+## Incentive Mechanism
+
+## Communication-Efficiency
+
+## Straggler Problem
+
+## Computation Efficiency
+
+## Wireless Communication and Cloud Computing
+
+## FL System Design
+
+## Models
+
+## Natural language Processing
+
+## Computer Vision
+
+## Health Care
+
+## Transportation
+
+## Recommendation System
 
 ## Speech Recognition
 
+## Finance
+
+## Smart City
+
+## Robotics
+
+## Networking
+
+## Blockchain
 
 ## Uncategorized
 ### 2016
