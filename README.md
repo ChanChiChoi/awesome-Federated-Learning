@@ -1,12 +1,19 @@
 # awesome-Federated-Learning
-The repository collects papers(mainly from arxiv.org), Frameworks, projects, datasets of federated learning:
+The repository collects papers(mainly from arxiv.org), Frameworks, projects, datasets of federated learning on bellow themes:
 
 > * [Papers][Introduction&Survey](https://github.com/ChanChiChoi/awesome-Federated-Learning#introduction--survey)  
+> * [Papers][Distributed Optimization]()
 > * [Papers][Non-IID and Model Personalization]()
+> * [Papers][Semi-Supervised Learning]()
 > * [Papers][Vertical Federated Learning]()
 > * [Papers][Hierarchical Federated Learning]()
 > * [Papers][Decentralized Federated Learning]()
 > * [Papers][Federated Transfer Learning]()
+> * [Papers][Neural Architecture Search]()
+> * [Papers][Continual Learning]()
+> * [Papers][Domain Adaptation]()
+> * [Papers][Reinforcement Learning]()
+> * [Papers][Bayesian Learning]()
 > * [Papers][Speech Recognition](https://github.com/ChanChiChoi/awesome-Federated-Learning#speech-recognition)  
 > * [Papers][uncategorized](https://github.com/ChanChiChoi/awesome-Federated-Learning#uncategorized)
 > * [Blogs](.)
