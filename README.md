@@ -62,10 +62,10 @@ also, some papers and links collected from:
 
 ## Distributed Optimization
 - Konečný J, McMahan B, Ramage D. [Federated optimization: Distributed optimization beyond the datacenter](https://arxiv.org/pdf/1511.03575)[J]. arXiv preprint arXiv:1511.03575, 2015.
-- [Baseline]Brendan McMahan H, Moore E, Ramage D, et al. [Communication-Efficient Learning of Deep Networks from Decentralized Data]( Communication-Efficient Learning of Deep Networks from Decentralized Data)[J]. arXiv, 2016: arXiv: 1602.05629.
+- [Baseline]Brendan McMahan H, Moore E, Ramage D, et al. [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)[J]. arXiv, 2016: arXiv: 1602.05629.
 - Jakub Konečný, H. Brendan McMahan, Daniel Ramage, Peter Richtárik .[Federated Optimization: Distributed Machine Learning for On-Device  Intelligence](https://arxiv.org/pdf/1610.02527) [J]. arXiv preprint arXiv:1610.02527.
 - Virginia Smith, Chao-Kai Chiang, Maziar Sanjabi, Ameet Talwalkar .[Federated Multi-Task Learning](https://arxiv.org/pdf/1705.10467) [J]. arXiv preprint arXiv:1705.10467.
-- Jiang Z, Balu A, Hegde C, et al. [Collaborative Deep Learning in Fixed Topology Networks](Collaborative Deep Learning in Fixed Topology Networks)[J]. arXiv preprint arXiv:1706.07880, 2017.
+- Jiang Z, Balu A, Hegde C, et al. [Collaborative Deep Learning in Fixed Topology Networks](https://arxiv.org/pdf/1706.07880.pdf)[J]. arXiv preprint arXiv:1706.07880, 2017.
 - Jakub Konečný .[Stochastic, Distributed and Federated Optimization for Machine Learning](https://arxiv.org/pdf/1707.01155) [J]. arXiv preprint arXiv:1707.01155.
 - Tianyi Chen, Georgios B. Giannakis, Tao Sun, Wotao Yin[LAG: Lazily Aggregated Gradient for Communication-Efficient Distributed Learning](https://arxiv.org/abs/1805.09965) [J]. arXiv preprint arXiv:1805.09965.
 - [Baseline]Sashank Reddi, Zachary Charles, Manzil Zaheer, Zachary Garrett, Keith Rush, Jakub Konečný, Sanjiv Kumar, H. Brendan McMahan .[Adaptive Federated Optimization](https://arxiv.org/pdf/2003.00295) [J]. arXiv preprint arXiv:2003.00295.
