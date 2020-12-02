@@ -731,6 +731,7 @@ also, some papers and links collected from:
 - [FedML-AI/FedML](https://github.com/FedML-AI/FedML)
 - [IBM/federated-learning-lib](https://github.com/IBM/federated-learning-lib)
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft)
+- [PaddlePaddle/PaddleFL](https://github.com/PaddlePaddle/PaddleFL)
 
 
 ## Projects
