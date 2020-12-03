@@ -52,7 +52,7 @@ also, some papers and links collected from:
 - [4] [tushar-semwal/awesome-federated-computing](https://github.com/tushar-semwal/awesome-federated-computing)
 - [5] [poga/awesome-federated-learning](https://github.com/poga/awesome-federated-learning)
 - [6] [timmers/awesome-federated-learning](https://github.com/timmers/awesome-federated-learning)
-- [7] [innovation-cat/Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
+- [7-] [innovation-cat/Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
 - [8-] [ZeroWangZY/federated-learning](https://github.com/ZeroWangZY/federated-learning)
 - [9-] [lee-man/federated-learning](https://github.com/lee-man/federated-learning)
 - [10-] [albarqouni/Federated-Learning-In-Healthcare](https://github.com/albarqouni/Federated-Learning-In-Healthcare)
