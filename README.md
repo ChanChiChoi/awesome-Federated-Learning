@@ -37,7 +37,7 @@ The repository collects papers(mainly from arxiv.org), Frameworks, projects, dat
 > * [Papers&Applications][Networking](https://github.com/ChanChiChoi/awesome-Federated-Learning#networking)
 > * [Papers&Applications][Blockchain](https://github.com/ChanChiChoi/awesome-Federated-Learning#blockchain)
 > * [Papers&Others][uncategorized](https://github.com/ChanChiChoi/awesome-Federated-Learning#uncategorized)
-> * [Blogs](https://github.com/ChanChiChoi/awesome-Federated-Learning#blogs)
+> * [Blogs](https://github.com/ChanChiChoi/awesome-Federated-Learning#blogs--tutorials)
 > * [Framework](https://github.com/ChanChiChoi/awesome-Federated-Learning#framework)  
 > * [Projects](https://github.com/ChanChiChoi/awesome-Federated-Learning#projects)
 > * [Datasets && Benchmark](https://github.com/ChanChiChoi/awesome-Federated-Learning#datasets--benchmark)
@@ -59,6 +59,27 @@ also, some papers and links collected from:
 
 ---
 ## Introduction && Survey
+- Vepakomma P, Swedish T, Raskar R, et al. [No Peek: A Survey of private distributed deep learning](https://arxiv.org/pdf/1812.03288.pdf)[J]. arXiv preprint arXiv:1812.03288, 2018.
+- Qiang Yang, Yang Liu, Tianjian Chen, Yongxin Tong .[Federated Machine Learning: Concept and Applications](https://arxiv.org/pdf/1902.04885) [J]. arXiv preprint arXiv:1902.04885.
+- Han Y, Wang X, Leung V, et al. [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf)[J]. arXiv preprint arXiv:1907.08349, 2019.
+- Qinbin Li, Zeyi Wen, Bingsheng He .[Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693) [J]. arXiv preprint arXiv:1907.09693.
+- Tian Li, Anit Kumar Sahu, Ameet Talwalkar, Virginia Smith .[Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/1908.07873) [J]. arXiv preprint arXiv:1908.07873.
+- Wei Yang Bryan Lim, Nguyen Cong Luong, Dinh Thai Hoang, Yutao Jiao, Ying-Chang Liang, Qiang Yang, Dusit Niyato, Chunyan Miao .[Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/pdf/1909.11875) [J]. arXiv preprint arXiv:1909.11875.
+- D. Verma, S. Calo, S. Witherspoon, E. Bertino, A. Abu Jabal, A. Swami, G. Cirincione, S. Julier, G. White, G. de Mel, G. Pearson .[Federated Learning for Coalition Operations](https://arxiv.org/pdf/1910.06799) [J]. arXiv preprint arXiv:1910.06799.
+- Jie Xu, Fei Wang .[Federated Learning for Healthcare Informatics](https://arxiv.org/pdf/1911.06270) [J]. arXiv preprint arXiv:1911.06270.
+- Lan Q, Zhang Z, Du Y, et al. [An Introduction to Communication Efficient Edge Machine Learning](https://arxiv.org/pdf/1912.01554)[J]. arXiv preprint arXiv:1912.01554, 2019.
+- Anudit Nagar .[Privacy-Preserving Blockchain Based Federated Learning with Differential Data Sharing](https://arxiv.org/pdf/1912.04859) [J]. arXiv preprint arXiv:1912.04859.
+- Peter Kairouz, H. Brendan McMahan, Brendan Avent, Aurélien Bellet, Mehdi Bennis, Arjun Nitin Bhagoji, Keith Bonawitz, Zachary Charles, Graham Cormode, Rachel Cummings, Rafael G.L. D'Oliveira, Salim El Rouayheb, David Evans, Josh Gardner, Zachary Garrett, Adrià Gascón, Badih Ghazi, Phillip B. Gibbons, Marco Gruteser, Zaid Harchaoui, Chaoyang He, Lie He, Zhouyuan Huo, Ben Hutchinson, Justin Hsu, Martin Jaggi, Tara Javidi, Gauri Joshi, Mikhail Khodak, Jakub Konečný, Aleksandra Korolova, Farinaz Koushanfar, Sanmi Koyejo, Tancrède Lepoint, Yang Liu, Prateek Mittal, Mehryar Mohri, Richard Nock, Ayfer Özgür, Rasmus Pagh, Mariana Raykova, Hang Qi, Daniel Ramage, Ramesh Raskar, Dawn Song, Weikang Song, Sebastian U. Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramèr, Praneeth Vepakomma, Jianyu Wang, Li Xiong, Zheng Xu, Qiang Yang, Felix X. Yu, Han Yu, Sen Zhao .[Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977) [J]. arXiv preprint arXiv:1912.04977.
+- Shi Y, Yang K, Jiang T, et al. [Communication-efficient edge AI: Algorithms and systems](https://arxiv.org/pdf/2002.09668)[J]. arXiv preprint arXiv:2002.09668, 2020.
+- Ahmed Imteaj, Urmish Thakker, Shiqiang Wang, Jian Li, M. Hadi Amini .[Federated Learning for Resource-Constrained IoT Devices: Panoramas and State-of-the-art](https://arxiv.org/pdf/2002.10610) [J]. arXiv preprint arXiv:2002.10610.
+- Yilun Jin, Xiguang Wei, Yang Liu, Qiang Yang .[A Survey towards Federated Semi-supervised Learning](https://arxiv.org/pdf/2002.11545) [J]. arXiv preprint arXiv:2002.11545.
+- Lingjuan Lyu, Han Yu, Qiang Yang .[Threats to Federated Learning: A Survey](https://arxiv.org/pdf/2003.02133) [J]. arXiv preprint arXiv:2003.02133.
+- Viraj Kulkarni, Milind Kulkarni, Aniruddha Pant .[Survey of Personalization Techniques for Federated Learning](https://arxiv.org/pdf/2003.08673) [J]. arXiv preprint arXiv:2003.08673.
+- Christopher Briggs, Zhong Fan, Peter Andras .[A Review of Privacy Preserving Federated Learning for Private IoT Analytics](https://arxiv.org/pdf/2004.11794) [J]. arXiv preprint arXiv:2004.11794.
+- Yi Liu, Xingliang Yuan, Zehui Xiong, Jiawen Kang, Xiaofei Wang, Dusit Niyato .[Federated Learning for 6G Communications: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/2006.02931) [J]. arXiv preprint arXiv:2006.02931.
+- Seyyedali Hosseinalipour, Christopher G. Brinton, Vaneet Aggarwal, Huaiyu Dai, Mung Chiang .[From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks](https://arxiv.org/pdf/2006.03594) [J]. arXiv preprint arXiv:2006.03594.
+- Gupta A, Lanteigne C, Kingsley S. [SECure: A Social and Environmental Certificate for AI Systems](https://arxiv.org/pdf/2006.06217)[J]. arXiv preprint arXiv:2006.06217, 2020.
+
 
 ## Distributed Optimization
 - Konečný J, McMahan B, Ramage D. [Federated optimization: Distributed optimization beyond the datacenter](https://arxiv.org/pdf/1511.03575)[J]. arXiv preprint arXiv:1511.03575, 2015.
@@ -234,7 +255,6 @@ also, some papers and links collected from:
 - Hyesung Kim, Jihong Park, Mehdi Bennis, Seong-Lyun Kim .[On-Device Federated Learning via Blockchain and its Latency Analysis](https://arxiv.org/pdf/1808.03949) [J]. arXiv preprint arXiv:1808.03949.
 - Clement Fung, Chris J.M. Yoon, Ivan Beschastnikh .[Mitigating Sybils in Federated Learning Poisoning](https://arxiv.org/pdf/1808.04866) [J]. arXiv preprint arXiv:1808.04866.
 - Tobias Grubenmann, Abraham Bernstein, Dmitry Moor, Sven Seuken .[FedMark: A Marketplace for Federated Data on the Web](https://arxiv.org/pdf/1808.06298) [J]. arXiv preprint arXiv:1808.06298.
-- Gregor Ulm, Emil Gustavsson, Mats Jirstrand .[Functional Federated Learning in Erlang (ffl-erl)](https://arxiv.org/pdf/1808.08143) [J]. arXiv preprint arXiv:1808.08143.
 - Xiaofei Wang, Yiwen Han, Chenyang Wang, Qiyang Zhao, Xu Chen, Min Chen .[In-Edge AI: Intelligentizing Mobile Edge Computing, Caching and  Communication by Federated Learning](https://arxiv.org/pdf/1809.07857) [J]. arXiv preprint arXiv:1809.07857.
 - Dinesh Verma, Simon Julier, Greg Cirincione .[Federated AI for building AI Solutions across Multiple Agencies](https://arxiv.org/pdf/1809.10036) [J]. arXiv preprint arXiv:1809.10036.
 - Qijun Zhu, Dandan Li, Dik Lun Lee .[C-DLSI: An Extended LSI Tailored for Federated Text Retrieval](https://arxiv.org/pdf/1810.02579) [J]. arXiv preprint arXiv:1810.02579.
@@ -254,7 +274,6 @@ also, some papers and links collected from:
 - Zhibo Wang, Mengkai Song, Zhifei Zhang, Yang Song, Qian Wang, Hairong Qi .[Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning](https://arxiv.org/pdf/1812.00535) [J]. arXiv preprint arXiv:1812.00535.
 - Milad Nasr, Reza Shokri, Amir Houmansadr .[Comprehensive Privacy Analysis of Deep Learning: Stand-alone and Federated Learning under Passive and Active White-box Inference Attacks](https://arxiv.org/pdf/1812.00910) [J]. arXiv preprint arXiv:1812.00910.
 - Abhishek Bhowmick, John Duchi, Julien Freudiger, Gaurav Kapoor, Ryan Rogers .[Protection Against Reconstruction and Its Applications in Private Federated Learning](https://arxiv.org/pdf/1812.00984) [J]. arXiv preprint arXiv:1812.00984.
-- Sebastian Caldas, Peter Wu, Tian Li, Jakub Konečný, H. Brendan McMahan, Virginia Smith, Ameet Talwalkar .[LEAF: A Benchmark for Federated Settings](https://arxiv.org/pdf/1812.01097) [J]. arXiv preprint arXiv:1812.01097.
 - Mingzhe Chen, Omid Semiari, Walid Saad, Xuanlin Liu, Changchuan Yin .[Federated Echo State Learning for Minimizing Breaks in Presence in Wireless Virtual Reality Networks](https://arxiv.org/pdf/1812.01202) [J]. arXiv preprint arXiv:1812.01202.
 - Timothy Yang, Galen Andrew, Hubert Eichner, Haicheng Sun, Wei Li, Nicholas Kong, Daniel Ramage, Françoise Beaufays .[Applied Federated Learning: Improving Google Keyboard Query Suggestions](https://arxiv.org/pdf/1812.02903) [J]. arXiv preprint arXiv:1812.02903.
 - Stacey Truex, Nathalie Baracaldo, Ali Anwar, Thomas Steinke, Heiko Ludwig, Rui Zhang .[A Hybrid Approach to Privacy-Preserving Federated Learning](https://arxiv.org/pdf/1812.03224) [J]. arXiv preprint arXiv:1812.03224.
@@ -275,7 +294,6 @@ also, some papers and links collected from:
 - Anusha Lalitha, Osman Cihan Kilinc, Tara Javidi, Farinaz Koushanfar .[Peer-to-peer Federated Learning on Graphs](https://arxiv.org/pdf/1901.11173) [J]. arXiv preprint arXiv:1901.11173.
 - Mehryar Mohri, Gary Sivek, Ananda Theertha Suresh .[Agnostic Federated Learning](https://arxiv.org/pdf/1902.00146) [J]. arXiv preprint arXiv:1902.00146.
 - Keith Bonawitz, Hubert Eichner, Wolfgang Grieskamp, Dzmitry Huba, Alex Ingerman, Vladimir Ivanov, Chloe Kiddon, Jakub Konecny, Stefano Mazzocchi, H. Brendan McMahan, Timon Van Overveldt, David Petrou, Daniel Ramage, Jason Roselander .[Towards Federated Learning at Scale: System Design](https://arxiv.org/pdf/1902.01046) [J]. arXiv preprint arXiv:1902.01046.
-- Qiang Yang, Yang Liu, Tianjian Chen, Yongxin Tong .[Federated Machine Learning: Concept and Applications](https://arxiv.org/pdf/1902.04885) [J]. arXiv preprint arXiv:1902.04885.
 - Łukasz Lachowski .[Complexity of the quorum intersection property of the Federated Byzantine Agreement System](https://arxiv.org/pdf/1902.06493) [J]. arXiv preprint arXiv:1902.06493.
 - Wennan Zhu, Peter Kairouz, Haicheng Sun, Brendan McMahan, Wei Li .[Federated Heavy Hitters Discovery with Differential Privacy](https://arxiv.org/pdf/1902.08534) [J]. arXiv preprint arXiv:1902.08534.
 - Xudong Sun, Andrea Bommert, Florian Pfisterer, Jörg Rahnenführer, Michel Lang, Bernd Bischl .[High Dimensional Restrictive Federated Model Selection with multi-objective Bayesian Optimization over shifted distributions](https://arxiv.org/pdf/1902.08999) [J]. arXiv preprint arXiv:1902.08999.
@@ -316,7 +334,6 @@ also, some papers and links collected from:
 - Mengwei Yang, Linqi Song, Jie Xu, Congduan Li, Guozhen Tan .[The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost](https://arxiv.org/pdf/1907.07157) [J]. arXiv preprint arXiv:1907.07157.
 - Andreas Grammenos, Rodrigo Mendoza-Smith, Cecilia Mascolo, Jon Crowcroft .[Federated PCA with Adaptive Rank Estimation](https://arxiv.org/pdf/1907.08059) [J]. arXiv preprint arXiv:1907.08059.
 - Yiqiang Chen, Jindong Wang, Chaohui Yu, Wen Gao, Xin Qin .[FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare](https://arxiv.org/pdf/1907.09173) [J]. arXiv preprint arXiv:1907.09173.
-- Qinbin Li, Zeyi Wen, Bingsheng He .[Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693) [J]. arXiv preprint arXiv:1907.09693.
 - Mohammad Mohammadi Amiri, Deniz Gunduz .[Federated Learning over Wireless Fading Channels](https://arxiv.org/pdf/1907.09769) [J]. arXiv preprint arXiv:1907.09769.
 - Yang Liu, Zhuo Ma, Ximeng Liu, Siqi Ma, Surya Nepal, Robert Deng .[Boosting Privately: Privacy-Preserving Federated Extreme Boosting for Mobile Crowdsensing](https://arxiv.org/pdf/1907.10218) [J]. arXiv preprint arXiv:1907.10218.
 - Evita Bakopoulou, Balint Tillman, Athina Markopoulou .[A Federated Learning Approach for Mobile Packet Classification](https://arxiv.org/pdf/1907.13113) [J]. arXiv preprint arXiv:1907.13113.
@@ -328,7 +345,6 @@ also, some papers and links collected from:
 - Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Antonio Ferrara .[Towards Effective Device-Aware Federated Learning](https://arxiv.org/pdf/1908.07420) [J]. arXiv preprint arXiv:1908.07420.
 - Andrew Prout, William Arcand, David Bestor, Bill Bergeron, Chansup Byun, Vijay Gadepally, Michael Houle, Matthew Hubbell, Michael Jones, Anna Klein, Peter Michaleas, Lauren Milechin, Julie Mullen, Antonio Rosa, Siddharth Samsi, Charles Yee, Albert Reuther, Jeremy Kepner .[Securing HPC using Federated Authentication](https://arxiv.org/pdf/1908.07573) [J]. arXiv preprint arXiv:1908.07573.
 - Chenghao Hu, Jingyan Jiang, Zhi Wang .[Decentralized Federated Learning: A Segmented Gossip Approach](https://arxiv.org/pdf/1908.07782) [J]. arXiv preprint arXiv:1908.07782.
-- Tian Li, Anit Kumar Sahu, Ameet Talwalkar, Virginia Smith .[Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/1908.07873) [J]. arXiv preprint arXiv:1908.07873.
 - Hongyu Li, Tianqi Han .[An End-to-End Encrypted Neural Network for Gradient Updates Transmission in Federated Learning](https://arxiv.org/pdf/1908.08340) [J]. arXiv preprint arXiv:1908.08340.
 - Boyi Liu, Lujia Wang, Ming Liu, Cheng-Zhong Xu .[Federated Imitation Learning: A Privacy Considered Imitation Learning Framework for Cloud Robotic Systems with Heterogeneous Sensor Data](https://arxiv.org/pdf/1909.00895) [J]. arXiv preprint arXiv:1909.00895.
 - Yuris Mulya Saputra, Dinh Thai Hoang, Diep N. Nguyen, Eryk Dutkiewicz, Markus Dominik Mueck, Srikathyayani Srikanteswara .[Energy Demand Prediction with Federated Learning for Electric Vehicle Networks](https://arxiv.org/pdf/1909.00907) [J]. arXiv preprint arXiv:1909.00907.
@@ -341,7 +357,6 @@ also, some papers and links collected from:
 - Mingzhe Chen, Zhaohui Yang, Walid Saad, Changchuan Yin, H. Vincent Poor, Shuguang Cui .[A Joint Learning and Communications Framework for Federated Learning over Wireless Networks](https://arxiv.org/pdf/1909.07972) [J]. arXiv preprint arXiv:1909.07972.
 - Guan Wang, Charlie Xiaoqian Dang, Ziye Zhou .[Measure Contribution of Participants in Federated Learning](https://arxiv.org/pdf/1909.08525) [J]. arXiv preprint arXiv:1909.08525.
 - Abhishek Singh, Praneeth Vepakomma, Otkrist Gupta, Ramesh Raskar .[Detailed comparison of communication efficiency of split learning and federated learning](https://arxiv.org/pdf/1909.09145) [J]. arXiv preprint arXiv:1909.09145.
-- Wei Yang Bryan Lim, Nguyen Cong Luong, Dinh Thai Hoang, Yutao Jiao, Ying-Chang Liang, Qiang Yang, Dusit Niyato, Chunyan Miao .[Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/pdf/1909.11875) [J]. arXiv preprint arXiv:1909.11875.
 - Yuang Jiang, Shiqiang Wang, Bong Jun Ko, Wei-Han Lee, Leandros Tassiulas .[Model Pruning Enables Efficient Federated Learning on Edge Devices](https://arxiv.org/pdf/1909.12326) [J]. arXiv preprint arXiv:1909.12326.
 - Yihan Jiang, Jakub Konečný, Keith Rush, Sreeram Kannan .[Improving Federated Learning Personalization via Model Agnostic Meta Learning](https://arxiv.org/pdf/1909.12488) [J]. arXiv preprint arXiv:1909.12488.
 - Duc Bui, Kshitiz Malik, Jack Goetz, Honglei Liu, Seungwhan Moon, Anuj Kumar, Kang G. Shin .[Federated User Representation Learning](https://arxiv.org/pdf/1909.12535) [J]. arXiv preprint arXiv:1909.12535.
@@ -360,7 +375,6 @@ also, some papers and links collected from:
 - Zhaorui Li, Zhicong Huang, Chaochao Chen, Cheng Hong .[Quantification of the Leakage in Federated Learning](https://arxiv.org/pdf/1910.05467) [J]. arXiv preprint arXiv:1910.05467.
 - Xinle Liang, Yang Liu, Tianjian Chen, Ming Liu, Qiang Yang .[Federated Transfer Reinforcement Learning for Autonomous Driving](https://arxiv.org/pdf/1910.06001) [J]. arXiv preprint arXiv:1910.06001.
 - Lixu Wang, Shichao Xu, Xiao Wang, Qi Zhu .[Eavesdrop the Composition Proportion of Training Labels in Federated Learning](https://arxiv.org/pdf/1910.06044) [J]. arXiv preprint arXiv:1910.06044.
-- D. Verma, S. Calo, S. Witherspoon, E. Bertino, A. Abu Jabal, A. Swami, G. Cirincione, S. Julier, G. White, G. de Mel, G. Pearson .[Federated Learning for Coalition Operations](https://arxiv.org/pdf/1910.06799) [J]. arXiv preprint arXiv:1910.06799.
 - Jiawen Kang, Zehui Xiong, Dusit Niyato, Yuze Zou, Yang Zhang, Mohsen Guizani .[Reliable Federated Learning for Mobile Networks](https://arxiv.org/pdf/1910.06837) [J]. arXiv preprint arXiv:1910.06837.
 - Neta Shoham (Edgify), Tomer Avidor (Edgify), Aviv Keren (Edgify), Nadav Israel (Edgify), Daniel Benditkis (Edgify), Liron Mor-Yosef (Edgify), Itai Zeitak (Edgify) .[Overcoming Forgetting in Federated Learning on Non-IID Data](https://arxiv.org/pdf/1910.07796) [J]. arXiv preprint arXiv:1910.07796.
 - Xin Yao, Tianchi Huang, Rui-Xiao Zhang, Ruiyu Li, Lifeng Sun .[Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating](https://arxiv.org/pdf/1910.08234) [J]. arXiv preprint arXiv:1910.08234.
@@ -370,7 +384,6 @@ also, some papers and links collected from:
 - Nicolas Skatchkovsky, Hyeryung Jang, Osvaldo Simeone .[Federated Neuromorphic Learning of Spiking Neural Networks for Low-Power Edge Intelligence](https://arxiv.org/pdf/1910.09594) [J]. arXiv preprint arXiv:1910.09594.
 - Suyi Li, Yong Cheng, Yang Liu, Wei Wang, Tianjian Chen .[Abnormal Client Behavior Detection in Federated Learning](https://arxiv.org/pdf/1910.09933) [J]. arXiv preprint arXiv:1910.09933.
 - Kangkang Wang, Rajiv Mathews, Chloé Kiddon, Hubert Eichner, Françoise Beaufays, Daniel Ramage .[Federated Evaluation of On-device Personalization](https://arxiv.org/pdf/1910.10252) [J]. arXiv preprint arXiv:1910.10252.
-- Jiahuan Luo, Xueyang Wu, Yun Luo, Anbu Huang, Yunfeng Huang, Yang Liu, Qiang Yang .[Real-World Image Datasets for Federated Learning](https://arxiv.org/pdf/1910.11089) [J]. arXiv preprint arXiv:1910.11089.
 - Rulin Shao, Hongyu He, Hui Liu, Dianbo Liu .[Stochastic Channel-Based Federated Learning for Medical Data Privacy Preserving](https://arxiv.org/pdf/1910.11160) [J]. arXiv preprint arXiv:1910.11160.
 - Sabri Boughorbel, Fethi Jarray, Neethu Venugopal, Shabir Moosa, Haithum Elhadi, Michel Makhlouf .[Federated Uncertainty-Aware Learning for Distributed Hospital EHR Data](https://arxiv.org/pdf/1910.12191) [J]. arXiv preprint arXiv:1910.12191.
 - Jonathan Passerat-Palmbach, Tyler Farnan, Robert Miller, Marielle S. Gross, Heather Leigh Flannery, Bill Gleim .[A blockchain-orchestrated Federated Learning architecture for healthcare consortia](https://arxiv.org/pdf/1910.12603) [J]. arXiv preprint arXiv:1910.12603.
@@ -388,14 +401,12 @@ also, some papers and links collected from:
 - Chaoyue Niu, Fan Wu, Shaojie Tang, Lifeng Hua, Rongfei Jia, Chengfei Lv, Zhihua Wu, Guihai Chen .[Secure Federated Submodel Learning](https://arxiv.org/pdf/1911.02254) [J]. arXiv preprint arXiv:1911.02254.
 - Zhaohui Yang, Mingzhe Chen, Walid Saad, Choong Seon Hong, Mohammad Shikh-Bahaei .[Energy Efficient Federated Learning Over Wireless Communication Networks](https://arxiv.org/pdf/1911.02417) [J]. arXiv preprint arXiv:1911.02417.
 - Kun Ma, Antoine Bagula, Olasupo Ajayi .[Quality of Service (QoS) Modelling in Federated Cloud Computing](https://arxiv.org/pdf/1911.03051) [J]. arXiv preprint arXiv:1911.03051.
-- Yang Liu, Zhuo Ma, Ximeng Liu, Zhuzhu Wang, Siqi Ma, Ken Ren .[Revocable Federated Learning: A Benchmark of Federated Forest](https://arxiv.org/pdf/1911.03242) [J]. arXiv preprint arXiv:1911.03242.
 - Anis Elgabli, Jihong Park, Sabbir Ahmed, Mehdi Bennis .[L-FGADMM: Layer-Wise Federated Group ADMM for Communication Efficient Decentralized Deep Learning](https://arxiv.org/pdf/1911.03654) [J]. arXiv preprint arXiv:1911.03654.
 - Qinbin Li, Zeyi Wen, Bingsheng He .[Practical Federated Gradient Boosting Decision Trees](https://arxiv.org/pdf/1911.04206) [J]. arXiv preprint arXiv:1911.04206.
 - Anirban Das, Thomas Brunschwiler .[Privacy is What We Care About: Experimental Investigation of Federated Learning on Edge Devices](https://arxiv.org/pdf/1911.04559) [J]. arXiv preprint arXiv:1911.04559.
 - Xinyan Dai, Xiao Yan, Kaiwen Zhou, Han Yang, Kelvin K. W. Ng, James Cheng, Yu Fan .[Hyper-Sphere Quantization: Communication-Efficient SGD for Federated Learning](https://arxiv.org/pdf/1911.04655) [J]. arXiv preprint arXiv:1911.04655.
 - Latif U. Khan, Nguyen H. Tran, Shashi Raj Pandey, Walid Saad, Zhu Han, Minh N. H. Nguyen, Choong Seon Hong .[Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism](https://arxiv.org/pdf/1911.05642) [J]. arXiv preprint arXiv:1911.05642.
 - Stephen R. Pfohl, Andrew M. Dai, Katherine Heller .[Federated and Differentially Private Learning for Electronic Health Records](https://arxiv.org/pdf/1911.05861) [J]. arXiv preprint arXiv:1911.05861.
-- Jie Xu, Fei Wang .[Federated Learning for Healthcare Informatics](https://arxiv.org/pdf/1911.06270) [J]. arXiv preprint arXiv:1911.06270.
 - Daniele D'Agostino, Luca Roverelli, Gabriele Zereik, Giuseppe La Rocca, Andrea De Luca, Ruben Salvaterra, Andrea Belfiore, Gianni Lisini, Giovanni Novara, Andrea Tiengo .[A science gateway for Exploring the X-ray Transient and variable sky using EGI Federated Cloud](https://arxiv.org/pdf/1911.06560) [J]. arXiv preprint arXiv:1911.06560.
 - Jun Li, Xiaoman Shen, Lei Chen, Jiajia Chen .[Bandwidth Slicing to Boost Federated Learning in Edge Computing](https://arxiv.org/pdf/1911.07615) [J]. arXiv preprint arXiv:1911.07615.
 - Linara Adilova, Julia Rosenzweig, Michael Kamp .[Information-Theoretic Perspective of Federated Learning](https://arxiv.org/pdf/1911.07652) [J]. arXiv preprint arXiv:1911.07652.
@@ -412,8 +423,6 @@ also, some papers and links collected from:
 - André Gaul, Ismail Khoffi, Jörg Liesen, Torsten Stüber .[Mathematical Analysis and Algorithms for Federated Byzantine Agreement Systems](https://arxiv.org/pdf/1912.01365) [J]. arXiv preprint arXiv:1912.01365.
 - Zirui Xu, Zhao Yang, Jinjun Xiong, Jianlei Yang, Xiang Chen .[ELFISH: Resource-Aware Federated Learning on Heterogeneous Edge Devices](https://arxiv.org/pdf/1912.01684) [J]. arXiv preprint arXiv:1912.01684.
 - Songtao Lu, Yawen Zhang, Yunlong Wang, Christina Mack .[Learn Electronic Health Records by Fully Decentralized Federated Learning](https://arxiv.org/pdf/1912.01792) [J]. arXiv preprint arXiv:1912.01792.
-- Anudit Nagar .[Privacy-Preserving Blockchain Based Federated Learning with Differential Data Sharing](https://arxiv.org/pdf/1912.04859) [J]. arXiv preprint arXiv:1912.04859.
-- Peter Kairouz, H. Brendan McMahan, Brendan Avent, Aurélien Bellet, Mehdi Bennis, Arjun Nitin Bhagoji, Keith Bonawitz, Zachary Charles, Graham Cormode, Rachel Cummings, Rafael G.L. D'Oliveira, Salim El Rouayheb, David Evans, Josh Gardner, Zachary Garrett, Adrià Gascón, Badih Ghazi, Phillip B. Gibbons, Marco Gruteser, Zaid Harchaoui, Chaoyang He, Lie He, Zhouyuan Huo, Ben Hutchinson, Justin Hsu, Martin Jaggi, Tara Javidi, Gauri Joshi, Mikhail Khodak, Jakub Konečný, Aleksandra Korolova, Farinaz Koushanfar, Sanmi Koyejo, Tancrède Lepoint, Yang Liu, Prateek Mittal, Mehryar Mohri, Richard Nock, Ayfer Özgür, Rasmus Pagh, Mariana Raykova, Hang Qi, Daniel Ramage, Ramesh Raskar, Dawn Song, Weikang Song, Sebastian U. Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramèr, Praneeth Vepakomma, Jianyu Wang, Li Xiong, Zheng Xu, Qiang Yang, Felix X. Yu, Han Yu, Sen Zhao .[Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977) [J]. arXiv preprint arXiv:1912.04977.
 - Runhua Xu, Nathalie Baracaldo, Yi Zhou, Ali Anwar, Heiko Ludwig .[HybridAlpha: An Efficient Approach for Privacy-Preserving Federated Learning](https://arxiv.org/pdf/1912.05897) [J]. arXiv preprint arXiv:1912.05897.
 - Jinho Choi, Shiva Raj Pokhrel .[Federated learning with multichannel ALOHA](https://arxiv.org/pdf/1912.06273) [J]. arXiv preprint arXiv:1912.06273.
 - Yutao Jiao, Ping Wang, Dusit Niyato, Bin Lin, Dong In Kim .[Toward an Automated Auction Framework for Wireless Federated Learning Services Market](https://arxiv.org/pdf/1912.06370) [J]. arXiv preprint arXiv:1912.06370.
@@ -481,19 +490,16 @@ also, some papers and links collected from:
 - Martin Florian, Sebastian Henningsen, Björn Scheuermann .[The Sum of Its Parts: Analysis of Federated Byzantine Agreement Systems](https://arxiv.org/pdf/2002.08101) [J]. arXiv preprint arXiv:2002.08101.
 - Philipp D. Rohde, Maria-Esther Vidal .[Optimizing Federated Queries Based on the Physical Design of a Data Lake](https://arxiv.org/pdf/2002.08102) [J]. arXiv preprint arXiv:2002.08102.
 - Tengchan Zeng, Omid Semiari, Mohammad Mozaffari, Mingzhe Chen, Walid Saad, Mehdi Bennis .[Federated Learning in the Sky: Joint Power Allocation and Scheduling with UAV Swarms](https://arxiv.org/pdf/2002.08196) [J]. arXiv preprint arXiv:2002.08196.
-- Vaikkunth Mugunthan, Anton Peraire-Bueno, Lalana Kagal .[PrivacyFL: A simulator for privacy-preserving and secure federated learning](https://arxiv.org/pdf/2002.08423) [J]. arXiv preprint arXiv:2002.08423.
 - Dianbo Liu, Tim Miller .[Federated pretraining and fine tuning of BERT using clinical notes from multiple silos](https://arxiv.org/pdf/2002.08562) [J]. arXiv preprint arXiv:2002.08562.
 - Olivia Choudhury, Aris Gkoulalas-Divanis, Theodoros Salonidis, Issa Sylla, Yoonyoung Park, Grace Hsu, Amar Das .[Anonymizing Data for Privacy-Preserving Federated Learning](https://arxiv.org/pdf/2002.09096) [J]. arXiv preprint arXiv:2002.09096.
 - Sagar Dhakal, Saurav Prakash, Yair Yona, Shilpa Talwar, Nageen Himayat .[Coded Federated Learning](https://arxiv.org/pdf/2002.09574) [J]. arXiv preprint arXiv:2002.09574.
 - Rongfei Zeng, Shixun Zhang, Jiaqi Wang, Xiaowen Chu .[FMore: An Incentive Scheme of Multi-dimensional Auction for Federated Learning in MEC](https://arxiv.org/pdf/2002.09699) [J]. arXiv preprint arXiv:2002.09699.
 - Yan Feng, Xue Yang, Weijun Fang, Shu-Tao Xia, Xiaohu Tang .[Practical and Bilateral Privacy-preserving Federated Learning](https://arxiv.org/pdf/2002.09843) [J]. arXiv preprint arXiv:2002.09843.
-- Ahmed Imteaj, Urmish Thakker, Shiqiang Wang, Jian Li, M. Hadi Amini .[Federated Learning for Resource-Constrained IoT Devices: Panoramas and State-of-the-art](https://arxiv.org/pdf/2002.10610) [J]. arXiv preprint arXiv:2002.10610.
 - Yishay Mansour, Mehryar Mohri, Jae Ro, Ananda Theertha Suresh .[Three Approaches for Personalization with Applications to Federated Learning](https://arxiv.org/pdf/2002.10619) [J]. arXiv preprint arXiv:2002.10619.
 - Qiong Wu, Kaiwen He, Xu Chen .[Personalized Federated Learning for Intelligent IoT Applications: A Cloud-Edge based Framework](https://arxiv.org/pdf/2002.10671) [J]. arXiv preprint arXiv:2002.10671.
 - Richeng Jin, Yufan Huang, Xiaofan He, Huaiyu Dai, Tianfu Wu .[Stochastic-Sign SGD for Federated Learning with Theoretical Guarantees](https://arxiv.org/pdf/2002.10940) [J]. arXiv preprint arXiv:2002.10940.
 - Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui .[Device Heterogeneity in Federated Learning: A Superquantile Approach](https://arxiv.org/pdf/2002.11223) [J]. arXiv preprint arXiv:2002.11223.
 - Siqi Luo, Xu Chen, Qiong Wu, Zhi Zhou, Shuai Yu .[HFEL: Joint Edge Association and Resource Allocation for Cost-Efficient Hierarchical Federated Edge Learning](https://arxiv.org/pdf/2002.11343) [J]. arXiv preprint arXiv:2002.11343.
-- Yilun Jin, Xiguang Wei, Yang Liu, Qiang Yang .[A Survey towards Federated Semi-supervised Learning](https://arxiv.org/pdf/2002.11545) [J]. arXiv preprint arXiv:2002.11545.
 - Yuan Liu, Shuai Sun, Zhengpeng Ai, Shuangfeng Zhang, Zelei Liu, Han Yu .[FedCoin: A Peer-to-Peer Payment System for Federated Learning](https://arxiv.org/pdf/2002.11711) [J]. arXiv preprint arXiv:2002.11711.
 - Rei Ito, Mineto Tsukada, Hiroki Matsutani .[An On-Device Federated Learning Approach for Cooperative Anomaly Detection](https://arxiv.org/pdf/2002.12301) [J]. arXiv preprint arXiv:2002.12301.
 - Hong Xing, Osvaldo Simeone, Suzhi Bi .[Decentralized Federated Learning via SGD over Wireless D2D Networks](https://arxiv.org/pdf/2002.12507) [J]. arXiv preprint arXiv:2002.12507.
@@ -502,9 +508,7 @@ also, some papers and links collected from:
 - Xiaopeng Mo, Jie Xu .[Energy-Efficient Federated Edge Learning with Joint Communication and Computation Design](https://arxiv.org/pdf/2003.00199) [J]. arXiv preprint arXiv:2003.00199.
 - Kang Wei, Jun Li, Ming Ding, Chuan Ma, Hang Su, Bo Zhang, H. Vincent Poor .[Performance Analysis and Optimization in Privacy-Preserving Federated Learning](https://arxiv.org/pdf/2003.00229) [J]. arXiv preprint arXiv:2003.00229.
 - Haijian Sun, Xiang Ma, Rose Qingyang Hu .[Adaptive Federated Learning With Gradient Compression in Uplink NOMA](https://arxiv.org/pdf/2003.01344) [J]. arXiv preprint arXiv:2003.01344.
-- Lifeng Liu, Fengda Zhang, Jun Xiao, Chao Wu .[Evaluation Framework For Large-scale Federated Learning](https://arxiv.org/pdf/2003.01575) [J]. arXiv preprint arXiv:2003.01575.
 - Naifu Zhang, Meixia Tao .[Gradient Statistics Aware Power Control for Over-the-Air Federated Learning in Fading Channels](https://arxiv.org/pdf/2003.02089) [J]. arXiv preprint arXiv:2003.02089.
-- Lingjuan Lyu, Han Yu, Qiang Yang .[Threats to Federated Learning: A Survey](https://arxiv.org/pdf/2003.02133) [J]. arXiv preprint arXiv:2003.02133.
 - Hangyu Zhu, Yaochu Jin .[Real-time Federated Evolutionary Neural Architecture Search](https://arxiv.org/pdf/2003.02793) [J]. arXiv preprint arXiv:2003.02793.
 - Jaehong Yoon, Wonyong Jeong, Giwoong Lee, Eunho Yang, Sung Ju Hwang .[Federated Continual Learning with Adaptive Parameter Communication](https://arxiv.org/pdf/2003.03196) [J]. arXiv preprint arXiv:2003.03196.
 - Jinjin Xu, Wenli Du, Ran Cheng, Wangli He, Yaochu Jin .[Ternary Compression for Communication-Efficient Federated Learning](https://arxiv.org/pdf/2003.03564) [J]. arXiv preprint arXiv:2003.03564.
@@ -514,7 +518,6 @@ also, some papers and links collected from:
 - Yo-Seb Jeon, Mohammad Mohammadi Amiri, Jun Li, H. Vincent Poor .[Gradient Estimation for Federated Learning over Massive MIMO Communication Systems](https://arxiv.org/pdf/2003.08059) [J]. arXiv preprint arXiv:2003.08059.
 - Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown .[Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/pdf/2003.08082) [J]. arXiv preprint arXiv:2003.08082.
 - Nicola Rieke, Jonny Hancox, Wenqi Li, Fausto Milletari, Holger Roth, Shadi Albarqouni, Spyridon Bakas, Mathieu N. Galtier, Bennett Landman, Klaus Maier-Hein, Sebastien Ourselin, Micah Sheller, Ronald M. Summers, Andrew Trask, Daguang Xu, Maximilian Baust, M. Jorge Cardoso .[The Future of Digital Health with Federated Learning](https://arxiv.org/pdf/2003.08119) [J]. arXiv preprint arXiv:2003.08119.
-- Viraj Kulkarni, Milind Kulkarni, Aniruddha Pant .[Survey of Personalization Techniques for Federated Learning](https://arxiv.org/pdf/2003.08673) [J]. arXiv preprint arXiv:2003.08673.
 - Yi Liu, James J.Q. Yu, Jiawen Kang, Dusit Niyato, Shuyu Zhang .[Privacy-preserving Traffic Flow Prediction: A Federated Learning Approach](https://arxiv.org/pdf/2003.08725) [J]. arXiv preprint arXiv:2003.08725.
 - Suyu Ge, Fangzhao Wu, Chuhan Wu, Tao Qi, Yongfeng Huang, Xing Xie .[FedNER: Privacy-preserving Medical Named Entity Recognition with Federated Learning](https://arxiv.org/pdf/2003.09288) [J]. arXiv preprint arXiv:2003.09288.
 - Sihua Wang, Mingzhe Chen, Changchuan Yin, Walid Saad, Choong Seon Hong, Shuguang Cui, H. Vincent Poor .[Federated Learning for Task and Resource Allocation in Wireless High Altitude Balloon Networks](https://arxiv.org/pdf/2003.09375) [J]. arXiv preprint arXiv:2003.09375.
@@ -556,7 +559,6 @@ also, some papers and links collected from:
 - Wenqi Wei, Ling Liu, Margaret Loper, Ka-Ho Chow, Mehmet Emre Gursoy, Stacey Truex, Yanzhao Wu .[A Framework for Evaluating Gradient Leakage Attacks in Federated Learning](https://arxiv.org/pdf/2004.10397) [J]. arXiv preprint arXiv:2004.10397.
 - Aidmar Wainakh, Alejandro Sanchez Guinea, Tim Grube, Max Mühlhäuser .[Enhancing Privacy via Hierarchical Federated Learning](https://arxiv.org/pdf/2004.11361) [J]. arXiv preprint arXiv:2004.11361.
 - Christopher Briggs, Zhong Fan, Peter Andras .[Federated learning with hierarchical clustering of local updates to improve training on non-IID data](https://arxiv.org/pdf/2004.11791) [J]. arXiv preprint arXiv:2004.11791.
-- Christopher Briggs, Zhong Fan, Peter Andras .[A Review of Privacy Preserving Federated Learning for Private IoT Analytics](https://arxiv.org/pdf/2004.11794) [J]. arXiv preprint arXiv:2004.11794.
 - Chandra Thapa, M.A.P. Chamikara, Seyit Camtepe .[SplitFed: When Federated Learning Meets Split Learning](https://arxiv.org/pdf/2004.12088) [J]. arXiv preprint arXiv:2004.12088.
 - M.A.P. Chamikara, P.Bertok, I.Khalil, D.Liu, S.Camtepe .[Privacy Preserving Distributed Machine Learning with Federated Learning](https://arxiv.org/pdf/2004.12108) [J]. arXiv preprint arXiv:2004.12108.
 - Ce Ju, Dashan Gao, Ravikiran Mane, Ben Tan, Yang Liu, Cuntai Guan .[Federated Transfer Learning for EEG Signal Classification](https://arxiv.org/pdf/2004.12321) [J]. arXiv preprint arXiv:2004.12321.
@@ -586,9 +588,7 @@ also, some papers and links collected from:
 - Rui Shao, Pramuditha Perera, Pong C. Yuen, Vishal M. Patel .[Federated Face Anti-spoofing](https://arxiv.org/pdf/2005.14638) [J]. arXiv preprint arXiv:2005.14638.
 - Ahmet M. Elbir, S. Coleri .[Federated Learning for Vehicular Networks](https://arxiv.org/pdf/2006.01412) [J]. arXiv preprint arXiv:2006.01412.
 - Mingzhe Chen, H. Vincent Poor, Walid Saad, Shuguang Cui .[Wireless Communications for Collaborative Federated Learning in the Internet of Things](https://arxiv.org/pdf/2006.02499) [J]. arXiv preprint arXiv:2006.02499.
-- Yi Liu, Xingliang Yuan, Zehui Xiong, Jiawen Kang, Xiaofei Wang, Dusit Niyato .[Federated Learning for 6G Communications: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/2006.02931) [J]. arXiv preprint arXiv:2006.02931.
 - Nir Shlezinger, Mingzhe Chen, Yonina C. Eldar, H. Vincent Poor, Shuguang Cui .[UVeQFed: Universal Vector Quantization for Federated Learning](https://arxiv.org/pdf/2006.03262) [J]. arXiv preprint arXiv:2006.03262.
-- Seyyedali Hosseinalipour, Christopher G. Brinton, Vaneet Aggarwal, Huaiyu Dai, Mung Chiang .[From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks](https://arxiv.org/pdf/2006.03594) [J]. arXiv preprint arXiv:2006.03594.
 - Stacey Truex, Ling Liu, Ka-Ho Chow, Mehmet Emre Gursoy, Wenqi Wei .[LDP-Fed: Federated Learning with Local Differential Privacy](https://arxiv.org/pdf/2006.03637) [J]. arXiv preprint arXiv:2006.03637.
 - Hans Albert Lianto, Yang Zhao, Jun Zhao .[Responsive Web User Interface to Recover Training Data from User Gradients in Federated Learning](https://arxiv.org/pdf/2006.04695) [J]. arXiv preprint arXiv:2006.04695.
 - [NIPS]Woodworth B, Patel K K, Srebro N. [Minibatch vs Local SGD for Heterogeneous Distributed Learning](https://arxiv.org/pdf/2006.04735)[J]. arXiv preprint arXiv:2006.04735, 2020.
@@ -600,7 +600,6 @@ also, some papers and links collected from:
 - Mohammad Rasouli, Tao Sun, Ram Rajagopal .[FedGAN: Federated Generative Adversarial Networks for Distributed Data](https://arxiv.org/pdf/2006.07228) [J]. arXiv preprint arXiv:2006.07228.
 - [NIPS]Tao Lin, Lingjing Kong, Sebastian U. Stich, Martin Jaggi .[Ensemble Distillation for Robust Model Fusion in Federated Learning](https://arxiv.org/pdf/2006.07242) [J]. arXiv preprint arXiv:2006.07242.
 - Georgios Damaskinos, Rachid Guerraoui, Anne-Marie Kermarrec, Vlad Nitu, Rhicheek Patra, Francois Taiani .[FLeet: Online Federated Learning via Staleness Awareness and Performance Prediction](https://arxiv.org/pdf/2006.07273) [J]. arXiv preprint arXiv:2006.07273.
-- Sixu Hu, Yuan Li, Xu Liu, Qinbin Li, Zhaomin Wu, Bingsheng He .[The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems](https://arxiv.org/pdf/2006.07856) [J]. arXiv preprint arXiv:2006.07856.
 - Chen Chen, Jingfeng Zhang, Anthony K. H. Tung, Mohan Kankanhalli, Gang Chen .[Robust Federated Recommendation System](https://arxiv.org/pdf/2006.08259) [J]. arXiv preprint arXiv:2006.08259.
 - Mathieu Andreux, Andre Manoel, Romuald Menuet, Charlie Saillard, Chloé Simpson .[Federated Survival Analysis with Discrete-Time Cox Models](https://arxiv.org/pdf/2006.08997) [J]. arXiv preprint arXiv:2006.08997.
 - Kavya Kopparapu, Eric Lin, Jessica Zhao .[FedCD: Improving Performance in non-IID Federated Learning](https://arxiv.org/pdf/2006.09637) [J]. arXiv preprint arXiv:2006.09637.
@@ -808,7 +807,14 @@ also, some papers and links collected from:
 - Olga Zolotareva (1), Reza Nasirigerdeh (1), Julian Matschinske (1), Reihaneh Torkzadehmahani (1), Tobias Frisch (2), Julian Späth (1), David B. Blumenthal (1), Amir Abbasinejad (1 and 4), Paolo Tieri (3 nad 4), Nina K. Wenke (1), Markus List (1), Jan Baumbach (1 and 2) ((1) Chair of Experimental Bioinformatics, TUM School of Life Sciences, Technical University of Munich, Munich, Germany, (2) Department of Mathematics and Computer Science, University of Southern Denmark, Odense, Denmark, (3) CNR National Research Council, IAC Institute for Applied Computing, Rome, Italy, (4) SapienzaUniversity of Rome, Rome, Italy) .[Flimma: a federated and privacy-preserving tool for differential gene expression analysis](https://arxiv.org/pdf/2010.16403) [J]. arXiv preprint arXiv:2010.16403.
 
 
-## Blogs
+## Blogs && Tutorials
+- [Learn to adapt Flower for your use-case](https://flower.dev/blog)
+- [Online Comic from Google AI on Federated Learning](https://federated.withgoogle.com/)
+- [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+- [An Introduction to Federated Learning](http://vision.cloudera.com/an-introduction-to-federated-learning/)
+- [Federated learning: Distributed machine learning with data locality and privacy](https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html)
+- [Federated Learning: The Future of Distributed Machine Learning](https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897)
+- [Federated Learning for Wake Word Detection](https://medium.com/snips-ai/federated-learning-for-wake-word-detection-c8b8c5cdd2c5)
 
 
 ## Framework
@@ -820,9 +826,19 @@ also, some papers and links collected from:
 - [IBM/federated-learning-lib](https://github.com/IBM/federated-learning-lib)
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft)
 - [PaddlePaddle/PaddleFL](https://github.com/PaddlePaddle/PaddleFL)
+- [flower](https://flower.dev/)
 
 
 ## Projects
 - [shashigharti/federated-learning-on-raspberry-pi](https://github.com/shashigharti/federated-learning-on-raspberry-pi)
+- [shaoxiongji/federated-learning](https://github.com/shaoxiongji/federated-learning)
+
 
 ## Datasets && Benchmark
+- Gregor Ulm, Emil Gustavsson, Mats Jirstrand .[Functional Federated Learning in Erlang (ffl-erl)](https://arxiv.org/pdf/1808.08143) [J]. arXiv preprint arXiv:1808.08143.
+- Sebastian Caldas, Peter Wu, Tian Li, Jakub Konečný, H. Brendan McMahan, Virginia Smith, Ameet Talwalkar .[LEAF: A Benchmark for Federated Settings](https://arxiv.org/pdf/1812.01097) [J]. arXiv preprint arXiv:1812.01097.
+- Jiahuan Luo, Xueyang Wu, Yun Luo, Anbu Huang, Yunfeng Huang, Yang Liu, Qiang Yang .[Real-World Image Datasets for Federated Learning](https://arxiv.org/pdf/1910.11089) [J]. arXiv preprint arXiv:1910.11089.
+- Yang Liu, Zhuo Ma, Ximeng Liu, Zhuzhu Wang, Siqi Ma, Ken Ren .[Revocable Federated Learning: A Benchmark of Federated Forest](https://arxiv.org/pdf/1911.03242) [J]. arXiv preprint arXiv:1911.03242.
+- Vaikkunth Mugunthan, Anton Peraire-Bueno, Lalana Kagal .[PrivacyFL: A simulator for privacy-preserving and secure federated learning](https://arxiv.org/pdf/2002.08423) [J]. arXiv preprint arXiv:2002.08423.
+- Lifeng Liu, Fengda Zhang, Jun Xiao, Chao Wu .[Evaluation Framework For Large-scale Federated Learning](https://arxiv.org/pdf/2003.01575) [J]. arXiv preprint arXiv:2003.01575.
+- Sixu Hu, Yuan Li, Xu Liu, Qinbin Li, Zhaomin Wu, Bingsheng He .[The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems](https://arxiv.org/pdf/2006.07856) [J]. arXiv preprint arXiv:2006.07856.
