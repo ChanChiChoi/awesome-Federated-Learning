@@ -888,8 +888,8 @@ also, some papers and links collected from:
 - [富数FMPC(Avatar)](https://www.fudata.cn/federated-machine-learning)
 - [华控PrivPy](https://www.tsingj.com/)
 - [平安蜂巢](.)
-- [矩阵元JUGO](https://jugo.juzix.net/home);
 - [腾讯 T-Sec](https://cloud.tencent.com/product/fele)  
+- [矩阵元JUGO](https://jugo.juzix.net/home);
 - [nvidia clare](https://developer.nvidia.com/clara) 
 - [huawei NAIE](https://console.huaweicloud.com/naie/)
 - [京东数科联邦魔盒](https://www.jddglobal.com/products/union-learn)
