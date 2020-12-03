@@ -42,6 +42,7 @@ The repository collects papers(mainly from arxiv.org), Frameworks, projects, dat
 > * [Projects](https://github.com/ChanChiChoi/awesome-Federated-Learning#projects)
 > * [Datasets && Benchmark](https://github.com/ChanChiChoi/awesome-Federated-Learning#datasets--benchmark)
 > * [Scholars](https://github.com/ChanChiChoi/awesome-Federated-Learning#scholars)
+> * [Company](https://github.com/ChanChiChoi/awesome-Federated-Learning#company)
 
 also, some papers and links collected from:
 - [1] [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
@@ -840,6 +841,7 @@ also, some papers and links collected from:
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft)
 - [PaddlePaddle/PaddleFL](https://github.com/PaddlePaddle/PaddleFL)
 - [flower](https://flower.dev/)
+- [facebookresearch/CrypTen](https://github.com/facebookresearch/CrypTen)
 
 
 ## Projects
@@ -847,9 +849,11 @@ also, some papers and links collected from:
 - [shaoxiongji/federated-learning](https://github.com/shaoxiongji/federated-learning)
 - [mccorby](https://github.com/mccorby)
 - [roxanneluo/Federated-Learning](https://github.com/roxanneluo/Federated-Learning)
+- [dvc](https://dvc.org/) # unknown
 
 
 ## Datasets && Benchmark
+- [leaf](https://leaf.cmu.edu/) # A Benchmark for Federated Settings
 - Gregor Ulm, Emil Gustavsson, Mats Jirstrand .[Functional Federated Learning in Erlang (ffl-erl)](https://arxiv.org/pdf/1808.08143) [J]. arXiv preprint arXiv:1808.08143.
 - Sebastian Caldas, Peter Wu, Tian Li, Jakub Konečný, H. Brendan McMahan, Virginia Smith, Ameet Talwalkar .[LEAF: A Benchmark for Federated Settings](https://arxiv.org/pdf/1812.01097) [J]. arXiv preprint arXiv:1812.01097.
 - Jiahuan Luo, Xueyang Wu, Yun Luo, Anbu Huang, Yunfeng Huang, Yang Liu, Qiang Yang .[Real-World Image Datasets for Federated Learning](https://arxiv.org/pdf/1910.11089) [J]. arXiv preprint arXiv:1910.11089.
@@ -865,4 +869,45 @@ also, some papers and links collected from:
 - [Yang Qiang](https://scholar.google.com/citations?hl=en&user=1LxWZLQAAAAJ)
 - [H. Brendan McMahan](https://scholar.google.com/citations?user=iKPWydkAAAAJ&hl=en)
 - [jakub konečný](https://scholar.google.com/citations?user=4vq7eXQAAAAJ&hl=en)
+
+## Company
+- [Adap](https://adap.com/en)
+- [Snips](https://snips.ai/); [Snips](https://www.theverge.com/2019/11/21/20975607/sonos-buys-snips-ai-voice-assistant-privacy)
+- [Privacy.ai](https://privacy.ai/)
+- [OpenMined](https://www.openmined.org/)
+- [Arkhn](https://arkhn.org/en/)
+- [Scaleout](https://scaleoutsystems.com/)
+- [MELLODDY](https://www.melloddy.eu/)
+- [DataFleets](https://www.datafleets.com/)
+- [weizong Fate](https://cn.fedai.org/)
+- [baidu PaddleFL](https://github.com/PaddlePaddle/PaddleFL)
+- [google TensorFlow](https://github.com/tensorflow/federated)
+- [bytedance](https://github.com/bytedance/fedlearner)
+- [JD](https://github.com/jd-9n/9nfl)
+- [ant Morse](https://antchain.antgroup.com/products/morse)
+- [富数FMPC(Avatar)](https://www.fudata.cn/federated-machine-learning)
+- [华控PrivPy](https://www.tsingj.com/)
+- [平安蜂巢](.)
+- [矩阵元JUGO](https://jugo.juzix.net/home)
+- [tencent T-Sec](https://cloud.tencent.com/product/fele)
+- [nvidia clare](.) 
+- [huawei NAIE](.)
+- [京东数科联邦魔盒](https://www.jddglobal.com/products/union-learn)
+- [同盾科技-智邦](https://www.tongdun.cn/ai/solution/aiknowledge)
+- [冰鉴](.)
+- [光之树科技-天机](https://www.guangzhishu.com/)
+- [数犊科技](https://www.sudoprivacy.com/)
+- [翼方健数-翼数坊](https://www.basebit.me/)
+- [锘崴科技-锘崴信](https://www.nvxclouds.com/)
+- [同态科技-迷雾计算](https://www.ttaicloud.com/)
+- [TalkingData](https://sdmk.talkingdata.com/#/home/datasecurity)
+- [融数联智](https://www.udai.link/)
+- [算数力科技-CompuTa](https://www.computa.com/)
+- [摩联科技](https://www.aitos.io/index/index/index.html)
+- [ARPA-ARPA隐私计算协议](https://arpachain.io/)
+- [趣链科技-BitXMesh可信数据网络](https://bitxmesh.com/)
+- [蓝象智联](.)
+- [冲量网络](http://www.impulse.top/)
+
+
 
