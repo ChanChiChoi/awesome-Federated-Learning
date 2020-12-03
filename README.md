@@ -813,6 +813,7 @@ also, some papers and links collected from:
 - [Learn to adapt Flower for your use-case](https://flower.dev/blog)
 - [Flower](https://flower.dev/docs/example_walkthrough_pytorch_mnist.html)
 - [Online Comic from Google AI on Federated Learning](https://federated.withgoogle.com/)
+- [PPT][thormacy/Federated-Learning](https://github.com/thormacy/Federated-Learning/tree/master/PPT)
 - [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) - Google AI Blog 2017
 - [Under The Hood of The Pixel 2: How AI Is Supercharging Hardware](https://ai.google/stories/ai-in-hardware/)
 - [An Introduction to Federated Learning](http://vision.cloudera.com/an-introduction-to-federated-learning/)
@@ -824,6 +825,7 @@ also, some papers and links collected from:
 - [An Overview of Federated Learning](https://medium.com/datadriveninvestor/an-overview-of-federated-learning-8a1a62b0600d). This blog introduces some challenges of federated learning, including *Inference Attack* and *Model Poisoning*.
 - [PySyft](https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials)
 - [tensorflow TFF](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification)
+- [open-intelligence/federated-learning-chinese](https://github.com/open-intelligence/federated-learning-chinese)
 - [杨强：联邦学习](https://mp.weixin.qq.com/s/5FTrG5SZey2yeIbuyT3HoQ)
 - [联邦学习的研究及应用](https://mp.weixin.qq.com/s?src=11&timestamp=1555896266&ver=1561&signature=ZtLlc7qakNAdw8hV3dxaB30PxtK9hAshYsIxccFf-D4eJrUw6YKQcqD0lD3SDMEn4egQTafUZr429er7SueP6HKLTr*uFKfr6JuHc3OvfdJ-uExiEJStHFynC65htbLp&new=1)
 - [杨强：GDPR对AI的挑战和基于联邦迁移学习的对策](https://zhuanlan.zhihu.com/p/42646278)
@@ -870,6 +872,8 @@ also, some papers and links collected from:
 - [mccorby](https://github.com/mccorby)
 - [roxanneluo/Federated-Learning](https://github.com/roxanneluo/Federated-Learning)
 - [dvc](https://dvc.org/) # unknown
+- [papersdclub/Differentially_private_federated_learning](https://github.com/papersdclub/Differentially_private_federated_learning)
+- [AshwinRJ/Federated-Learning-PyTorch](https://github.com/AshwinRJ/Federated-Learning-PyTorch)
 
 
 ## Datasets && Benchmark
