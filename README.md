@@ -37,10 +37,11 @@ The repository collects papers(mainly from arxiv.org), Frameworks, projects, dat
 > * [Papers&Applications][Networking](https://github.com/ChanChiChoi/awesome-Federated-Learning#networking)
 > * [Papers&Applications][Blockchain](https://github.com/ChanChiChoi/awesome-Federated-Learning#blockchain)
 > * [Papers&Others][uncategorized](https://github.com/ChanChiChoi/awesome-Federated-Learning#uncategorized)
-> * [Blogs](https://github.com/ChanChiChoi/awesome-Federated-Learning#blogs--tutorials)
+> * [Blogs&&Tutorials](https://github.com/ChanChiChoi/awesome-Federated-Learning#blogs--tutorials)
 > * [Framework](https://github.com/ChanChiChoi/awesome-Federated-Learning#framework)  
 > * [Projects](https://github.com/ChanChiChoi/awesome-Federated-Learning#projects)
 > * [Datasets && Benchmark](https://github.com/ChanChiChoi/awesome-Federated-Learning#datasets--benchmark)
+> * [Scolars](https://github.com/ChanChiChoi/awesome-Federated-Learning#scolars)
 
 also, some papers and links collected from:
 - [1] [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
@@ -815,6 +816,18 @@ also, some papers and links collected from:
 - [Federated learning: Distributed machine learning with data locality and privacy](https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html)
 - [Federated Learning: The Future of Distributed Machine Learning](https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897)
 - [Federated Learning for Wake Word Detection](https://medium.com/snips-ai/federated-learning-for-wake-word-detection-c8b8c5cdd2c5)
+- [Flower](https://flower.dev/docs/example_walkthrough_pytorch_mnist.html)
+- [PySyft](https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials)
+- [tensorflow TFF](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification)
+- [杨强：联邦学习](https://mp.weixin.qq.com/s/5FTrG5SZey2yeIbuyT3HoQ)
+- [Google - Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+- [联邦学习的研究及应用](https://mp.weixin.qq.com/s?src=11&timestamp=1555896266&ver=1561&signature=ZtLlc7qakNAdw8hV3dxaB30PxtK9hAshYsIxccFf-D4eJrUw6YKQcqD0lD3SDMEn4egQTafUZr429er7SueP6HKLTr*uFKfr6JuHc3OvfdJ-uExiEJStHFynC65htbLp&new=1)
+- [杨强：GDPR对AI的挑战和基于联邦迁移学习的对策](https://zhuanlan.zhihu.com/p/42646278)
+- [联邦学习的研究与应用](https://aisp-1251170195.file.myqcloud.com/fedweb/1553845987342.pdf)
+- [Federated Learning and Transfer Learning for Privacy, Security and Confidentiality](https://aisp-1251170195.file.myqcloud.com/fedweb/1552916850679.pdf) (AAAI-19)
+- [GDPR, Data Shortage and AI](https://aisp-1251170195.file.myqcloud.com/fedweb/1552916659436.pdf) (AAAI-19)
+- [GDPR, Data Shortage and AI](https://aaai.org/Conferences/AAAI-19/invited-speakers/#yang) (AAAI-19 Invited Talk)
+- [谷歌发布全球首个产品级移动端分布式机器学习系统，数千万手机同步训练](https://www.jiemian.com/article/2853096.html)
 
 
 ## Framework
@@ -832,6 +845,8 @@ also, some papers and links collected from:
 ## Projects
 - [shashigharti/federated-learning-on-raspberry-pi](https://github.com/shashigharti/federated-learning-on-raspberry-pi)
 - [shaoxiongji/federated-learning](https://github.com/shaoxiongji/federated-learning)
+- [mccorby](https://github.com/mccorby)
+- [roxanneluo/Federated-Learning](https://github.com/roxanneluo/Federated-Learning)
 
 
 ## Datasets && Benchmark
@@ -842,3 +857,12 @@ also, some papers and links collected from:
 - Vaikkunth Mugunthan, Anton Peraire-Bueno, Lalana Kagal .[PrivacyFL: A simulator for privacy-preserving and secure federated learning](https://arxiv.org/pdf/2002.08423) [J]. arXiv preprint arXiv:2002.08423.
 - Lifeng Liu, Fengda Zhang, Jun Xiao, Chao Wu .[Evaluation Framework For Large-scale Federated Learning](https://arxiv.org/pdf/2003.01575) [J]. arXiv preprint arXiv:2003.01575.
 - Sixu Hu, Yuan Li, Xu Liu, Qinbin Li, Zhaomin Wu, Bingsheng He .[The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems](https://arxiv.org/pdf/2006.07856) [J]. arXiv preprint arXiv:2006.07856.
+- [LEAF](https://github.com/TalwalkarLab/leaf)
+- [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets)
+
+
+## Scolars
+- [Yang Qiang](https://scholar.google.com/citations?hl=en&user=1LxWZLQAAAAJ)
+- [H. Brendan McMahan](https://scholar.google.com/citations?user=iKPWydkAAAAJ&hl=en)
+- [jakub konečný](https://scholar.google.com/citations?user=4vq7eXQAAAAJ&hl=en)
+
