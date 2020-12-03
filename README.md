@@ -41,7 +41,7 @@ The repository collects papers(mainly from arxiv.org), Frameworks, projects, dat
 > * [Framework](https://github.com/ChanChiChoi/awesome-Federated-Learning#framework)  
 > * [Projects](https://github.com/ChanChiChoi/awesome-Federated-Learning#projects)
 > * [Datasets && Benchmark](https://github.com/ChanChiChoi/awesome-Federated-Learning#datasets--benchmark)
-> * [Scolars](https://github.com/ChanChiChoi/awesome-Federated-Learning#scolars)
+> * [Scholars](https://github.com/ChanChiChoi/awesome-Federated-Learning#scholars)
 
 also, some papers and links collected from:
 - [1] [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
@@ -861,7 +861,7 @@ also, some papers and links collected from:
 - [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets)
 
 
-## Scolars
+## Scholars
 - [Yang Qiang](https://scholar.google.com/citations?hl=en&user=1LxWZLQAAAAJ)
 - [H. Brendan McMahan](https://scholar.google.com/citations?user=iKPWydkAAAAJ&hl=en)
 - [jakub konečný](https://scholar.google.com/citations?user=4vq7eXQAAAAJ&hl=en)
