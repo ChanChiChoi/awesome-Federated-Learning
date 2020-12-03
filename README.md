@@ -889,7 +889,7 @@ also, some papers and links collected from:
 - [华控PrivPy](https://www.tsingj.com/)
 - [平安蜂巢](.)
 - [矩阵元JUGO](https://jugo.juzix.net/home)
-- [tencent_T-Sec](https://cloud.tencent.com/product/fele)  
+- [腾讯 T-Sec](https://cloud.tencent.com/product/fele)  
 - [nvidia clare](.) 
 - [huawei NAIE](.)
 - [京东数科联邦魔盒](https://www.jddglobal.com/products/union-learn)
