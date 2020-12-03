@@ -703,7 +703,6 @@ also, some papers and links collected from:
 - Mohammad Mohammadi Amiri, Deniz Gunduz, Sanjeev R. Kulkarni, H. Vincent Poor .[Convergence of Federated Learning over a Noisy Downlink](https://arxiv.org/pdf/2008.11141) [J]. arXiv preprint arXiv:2008.11141.
 - Dimitris Stripelis, Jose Luis Ambite .[Accelerating Federated Learning in Heterogeneous Data and Computational Environments](https://arxiv.org/pdf/2008.11281) [J]. arXiv preprint arXiv:2008.11281.
 - Zhengming Zhang, Zhewei Yao, Yaoqing Yang, Yujun Yan, Joseph E. Gonzalez, Michael W. Mahoney .[Benchmarking Semi-supervised Federated Learning](https://arxiv.org/pdf/2008.11364) [J]. arXiv preprint arXiv:2008.11364.
-- Weiming Zhuang, Yonggang Wen, Xuesen Zhang, Xin Gan, Daiying Yin, Dongzhan Zhou, Shuai Zhang, Shuai Yi .[Performance Optimization for Federated Person Re-identification via Benchmark Analysis](https://arxiv.org/pdf/2008.11560) [J]. arXiv preprint arXiv:2008.11560.
 - Dongming Han, Wei Chen, Rusheng Pan, Yijing Liu, Jiehui Zhou, Ying Xu, Tianye Zhang, Changjie Fan, Jianrong Tao, Xiaolong (Luke)Zhang .[GraphFederator: Federated Visual Analysis for Multi-party Graphs](https://arxiv.org/pdf/2008.11989) [J]. arXiv preprint arXiv:2008.11989.
 - Lingjuan Lyu, Xinyi Xu, Qian Wang .[Collaborative Fairness in Federated Learning](https://arxiv.org/pdf/2008.12161) [J]. arXiv preprint arXiv:2008.12161.
 - Tejaswini Mallavarapu, Luke Cranfill, Junggab Son, Eun Hye Kim, Reza M. Parizi, John Morris .[A Federated Approach for Fine-Grained Classification of Fashion Apparel](https://arxiv.org/pdf/2008.12350) [J]. arXiv preprint arXiv:2008.12350.
@@ -821,7 +820,6 @@ also, some papers and links collected from:
 - [PySyft](https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials)
 - [tensorflow TFF](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification)
 - [杨强：联邦学习](https://mp.weixin.qq.com/s/5FTrG5SZey2yeIbuyT3HoQ)
-- [Google - Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 - [联邦学习的研究及应用](https://mp.weixin.qq.com/s?src=11&timestamp=1555896266&ver=1561&signature=ZtLlc7qakNAdw8hV3dxaB30PxtK9hAshYsIxccFf-D4eJrUw6YKQcqD0lD3SDMEn4egQTafUZr429er7SueP6HKLTr*uFKfr6JuHc3OvfdJ-uExiEJStHFynC65htbLp&new=1)
 - [杨强：GDPR对AI的挑战和基于联邦迁移学习的对策](https://zhuanlan.zhihu.com/p/42646278)
 - [联邦学习的研究与应用](https://aisp-1251170195.file.myqcloud.com/fedweb/1553845987342.pdf)
@@ -829,6 +827,23 @@ also, some papers and links collected from:
 - [GDPR, Data Shortage and AI](https://aisp-1251170195.file.myqcloud.com/fedweb/1552916659436.pdf) (AAAI-19)
 - [GDPR, Data Shortage and AI](https://aaai.org/Conferences/AAAI-19/invited-speakers/#yang) (AAAI-19 Invited Talk)
 - [谷歌发布全球首个产品级移动端分布式机器学习系统，数千万手机同步训练](https://www.jiemian.com/article/2853096.html)
+- [nvidia-uses-federated-learning-to-create-medical-imaging-ai](https://venturebeat.com/2019/10/13/nvidia-uses-federated-learning-to-create-medical-imaging-ai/)
+- [clara-federated-learning](https://blogs.nvidia.com/blog/2019/12/01/clara-federated-learning/)
+- [federated-learning-technique-predicts-hospital-stay-and-patient-mortality](https://venturebeat.com/2019/03/25/federated-learning-technique-predicts-hospital-stay-and-patient-mortality/)
+- [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29500022)
+- [federated-learning-collaborative](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+- [google-mayo-clinic-partnership-patient-data](https://www.statnews.com/2019/09/10/google-mayo-clinic-partnership-patient-data/)
+- [webank-clustar](https://www.digfingroup.com/webank-clustar/)
+- [What is Federated Learning](https://blogs.nvidia.com/blog/2019/10/13/what-is-federated-learning/) - Nvidia 2019
+- [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) - Google AI Blog 2017
+- [video][GDPR, Data Shotrage and AI (AAAI-19)](https://aaai.org/Conferences/AAAI-19/invited-speakers/#yang)
+- [video][Federated Learning: Machine Learning on Decentralized Data (Google I/O'19)](https://www.youtube.com/watch?v=89BGjQYA0uE)
+- [video][TensorFlow Federated (TFF): Machine Learning on Decentralized Data ](https://www.youtube.com/watch?v=1YbPmkChcbo)
+- [video][Federated Learning: Machine Learning on Decentralized Data](https://www.youtube.com/watch?v=89BGjQYA0uE)
+- [video][Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI)
+- [video][GDPR, Data Shortage and AI](https://vimeo.com/313941621) - Qiang Yang, AAAI 2019 Invited Talk
+- [video][Making every phone smarter with Federated Learning](https://www.youtube.com/watch?v=gbRJPa9d-VU) - Google, 2018
+
 
 
 ## Framework
@@ -861,14 +876,27 @@ also, some papers and links collected from:
 - Vaikkunth Mugunthan, Anton Peraire-Bueno, Lalana Kagal .[PrivacyFL: A simulator for privacy-preserving and secure federated learning](https://arxiv.org/pdf/2002.08423) [J]. arXiv preprint arXiv:2002.08423.
 - Lifeng Liu, Fengda Zhang, Jun Xiao, Chao Wu .[Evaluation Framework For Large-scale Federated Learning](https://arxiv.org/pdf/2003.01575) [J]. arXiv preprint arXiv:2003.01575.
 - Sixu Hu, Yuan Li, Xu Liu, Qinbin Li, Zhaomin Wu, Bingsheng He .[The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems](https://arxiv.org/pdf/2006.07856) [J]. arXiv preprint arXiv:2006.07856.
-- [LEAF](https://github.com/TalwalkarLab/leaf)
 - [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets)
+- [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097) [[Github]](https://github.com/TalwalkarLab/leaf)
+- Weiming Zhuang, Yonggang Wen, Xuesen Zhang, Xin Gan, Daiying Yin, Dongzhan Zhou, Shuai Zhang, Shuai Yi .[Performance Optimization for Federated Person Re-identification via Benchmark Analysis](https://arxiv.org/pdf/2008.11560) [J]. arXiv preprint arXiv:2008.11560. <br> [code:[cap-ntu/FedReID](https://github.com/cap-ntu/FedReID)]
+- [A Performance Evaluation of Federated Learning Algorithms](https://www.researchgate.net/profile/Gregor_Ulm/publication/329106719_A_Performance_Evaluation_of_Federated_Learning_Algorithms/links/5c0fabcfa6fdcc494febf907/A-Performance-Evaluation-of-Federated-Learning-Algorithms.pdf)
+- [Edge AIBench: Towards Comprehensive End-to-end Edge Computing Benchmarking](https://arxiv.org/abs/1908.01924)
+
 
 
 ## Scholars
 - [Yang Qiang](https://scholar.google.com/citations?hl=en&user=1LxWZLQAAAAJ)
 - [H. Brendan McMahan](https://scholar.google.com/citations?user=iKPWydkAAAAJ&hl=en)
 - [jakub konečný](https://scholar.google.com/citations?user=4vq7eXQAAAAJ&hl=en)
+
+
+## Conferences and Workshops
+- [FL-ICML 2020](http://federated-learning.org/fl-icml-2020/) - Organized by IBM Watson Research.
+- [FL-IBM 2020](https://federated-learning.bitbucket.io/ibm2020/) - Organized by IBM Watson Research and Webank.
+- [FL-NeurIPS 2019](http://federated-learning.org/fl-neurips-2019/) - Organized by Google, Webank, NTU, CMU.
+- [FL-IJCAI 2019](https://www.ijcai19.org/workshops.html) - Organized by Webank.
+- [Google Federated Learning workshop](https://sites.google.com/view/federated-learning-2019/home) - Organized by Google.
+
 
 ## Company
 - [Adap](https://adap.com/en)
@@ -881,6 +909,9 @@ also, some papers and links collected from:
 - [DataFleets](https://www.datafleets.com/)
 - [weizong Fate](https://cn.fedai.org/)
 - [baidu PaddleFL](https://github.com/PaddlePaddle/PaddleFL)
+- [Owkin](https://owkin.com/): Medical research
+- [XAIN](https://www.xain.io/) [[Github]](https://github.com/xainag/xain-fl): Automated Invoicing
+- [S20](https://www.s20.ai/): Multiple third party collaboration
 - [google TensorFlow](https://github.com/tensorflow/federated)
 - [bytedance](https://github.com/bytedance/fedlearner)
 - [JD](https://github.com/jd-9n/9nfl)
@@ -909,4 +940,5 @@ also, some papers and links collected from:
 - [冲量网络](http://www.impulse.top/)   
 ``` [腾讯fele](https://cloud.tencent.com/product/fele)```
 
+## Others
 
