@@ -884,7 +884,7 @@ also, some papers and links collected from:
 - [google TensorFlow](https://github.com/tensorflow/federated)
 - [bytedance](https://github.com/bytedance/fedlearner)
 - [JD](https://github.com/jd-9n/9nfl)
-- [腾讯fele]('https://cloud.tencent.com/product/fele')
+* [腾讯fele]('https://cloud.tencent.com/product/fele')
 - [ant Morse](https://antchain.antgroup.com/products/morse)
 - [富数FMPC(Avatar)](https://www.fudata.cn/federated-machine-learning)
 - [华控PrivPy](https://www.tsingj.com/)
