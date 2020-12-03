@@ -810,13 +810,13 @@ also, some papers and links collected from:
 
 ## Blogs && Tutorials
 - [Learn to adapt Flower for your use-case](https://flower.dev/blog)
+- [Flower](https://flower.dev/docs/example_walkthrough_pytorch_mnist.html)
 - [Online Comic from Google AI on Federated Learning](https://federated.withgoogle.com/)
 - [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 - [An Introduction to Federated Learning](http://vision.cloudera.com/an-introduction-to-federated-learning/)
 - [Federated learning: Distributed machine learning with data locality and privacy](https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html)
 - [Federated Learning: The Future of Distributed Machine Learning](https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897)
 - [Federated Learning for Wake Word Detection](https://medium.com/snips-ai/federated-learning-for-wake-word-detection-c8b8c5cdd2c5)
-- [Flower](https://flower.dev/docs/example_walkthrough_pytorch_mnist.html)
 - [PySyft](https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials)
 - [tensorflow TFF](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification)
 - [杨强：联邦学习](https://mp.weixin.qq.com/s/5FTrG5SZey2yeIbuyT3HoQ)
@@ -836,6 +836,13 @@ also, some papers and links collected from:
 - [webank-clustar](https://www.digfingroup.com/webank-clustar/)
 - [What is Federated Learning](https://blogs.nvidia.com/blog/2019/10/13/what-is-federated-learning/) - Nvidia 2019
 - [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) - Google AI Blog 2017
+- [Private AI-Federated Learning with PySyft and PyTorch](https://towardsdatascience.com/private-ai-federated-learning-with-pysyft-and-pytorch-954a9e4a4d4e)
+- [An Overview of Federated Learning](https://medium.com/datadriveninvestor/an-overview-of-federated-learning-8a1a62b0600d). This blog introduces some challenges of federated learning, including *Inference Attack* and *Model Poisoning*.
+- [Federated Learning in 10 lines of PyTorch and PySyft](https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/)
+- [An Open Framework for Secure and Privated AI](https://medium.com/@ODSC/an-open-framework-for-secure-and-private-ai-96c1891a4b)
+- [A Brief Introduction to Differential Privacy](https://medium.com/georgian-impact-blog/a-brief-introduction-to-differential-privacy-eacf8722283b)
+- [A beginners Guided to Federated Learning](https://hackernoon.com/a-beginners-guide-to-federated-learning-b29e29ba65cf). Federated Learning was born at the intersection of on-device AI, blockchain, and edge computing/IoT.
+- [Under The Hood of The Pixel 2: How AI Is Supercharging Hardware](https://ai.google/stories/ai-in-hardware/)
 - [video][GDPR, Data Shotrage and AI (AAAI-19)](https://aaai.org/Conferences/AAAI-19/invited-speakers/#yang)
 - [video][Federated Learning: Machine Learning on Decentralized Data (Google I/O'19)](https://www.youtube.com/watch?v=89BGjQYA0uE)
 - [video][TensorFlow Federated (TFF): Machine Learning on Decentralized Data ](https://www.youtube.com/watch?v=1YbPmkChcbo)
@@ -843,7 +850,7 @@ also, some papers and links collected from:
 - [video][Federated Learning](https://www.youtube.com/watch?v=xJkY3ehX_MI)
 - [video][GDPR, Data Shortage and AI](https://vimeo.com/313941621) - Qiang Yang, AAAI 2019 Invited Talk
 - [video][Making every phone smarter with Federated Learning](https://www.youtube.com/watch?v=gbRJPa9d-VU) - Google, 2018
-
+- [video][Secure and Private AI Udacity](https://classroom.udacity.com/courses/ud185)
 
 
 ## Framework
