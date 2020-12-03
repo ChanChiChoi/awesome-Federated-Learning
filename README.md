@@ -876,19 +876,17 @@ also, some papers and links collected from:
 
 
 ## Datasets && Benchmark
-- [leaf](https://leaf.cmu.edu/) # A Benchmark for Federated Settings
-- Gregor Ulm, Emil Gustavsson, Mats Jirstrand .[Functional Federated Learning in Erlang (ffl-erl)](https://arxiv.org/pdf/1808.08143) [J]. arXiv preprint arXiv:1808.08143.
-- Sebastian Caldas, Peter Wu, Tian Li, Jakub Konečný, H. Brendan McMahan, Virginia Smith, Ameet Talwalkar .[LEAF: A Benchmark for Federated Settings](https://arxiv.org/pdf/1812.01097) [J]. arXiv preprint arXiv:1812.01097.
+- [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097) [[Github]](https://github.com/TalwalkarLab/leaf) [website](https://leaf.cmu.edu/)
+- [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets)
+- [A Performance Evaluation of Federated Learning Algorithms](https://www.researchgate.net/profile/Gregor_Ulm/publication/329106719_A_Performance_Evaluation_of_Federated_Learning_Algorithms/links/5c0fabcfa6fdcc494febf907/A-Performance-Evaluation-of-Federated-Learning-Algorithms.pdf)
+- [Edge AIBench: Towards Comprehensive End-to-end Edge Computing Benchmarking](https://arxiv.org/abs/1908.01924)
 - Jiahuan Luo, Xueyang Wu, Yun Luo, Anbu Huang, Yunfeng Huang, Yang Liu, Qiang Yang .[Real-World Image Datasets for Federated Learning](https://arxiv.org/pdf/1910.11089) [J]. arXiv preprint arXiv:1910.11089.
 - Yang Liu, Zhuo Ma, Ximeng Liu, Zhuzhu Wang, Siqi Ma, Ken Ren .[Revocable Federated Learning: A Benchmark of Federated Forest](https://arxiv.org/pdf/1911.03242) [J]. arXiv preprint arXiv:1911.03242.
 - Vaikkunth Mugunthan, Anton Peraire-Bueno, Lalana Kagal .[PrivacyFL: A simulator for privacy-preserving and secure federated learning](https://arxiv.org/pdf/2002.08423) [J]. arXiv preprint arXiv:2002.08423.
 - Lifeng Liu, Fengda Zhang, Jun Xiao, Chao Wu .[Evaluation Framework For Large-scale Federated Learning](https://arxiv.org/pdf/2003.01575) [J]. arXiv preprint arXiv:2003.01575.
 - Sixu Hu, Yuan Li, Xu Liu, Qinbin Li, Zhaomin Wu, Bingsheng He .[The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems](https://arxiv.org/pdf/2006.07856) [J]. arXiv preprint arXiv:2006.07856.
-- [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets)
-- [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097) [[Github]](https://github.com/TalwalkarLab/leaf)
 - Weiming Zhuang, Yonggang Wen, Xuesen Zhang, Xin Gan, Daiying Yin, Dongzhan Zhou, Shuai Zhang, Shuai Yi .[Performance Optimization for Federated Person Re-identification via Benchmark Analysis](https://arxiv.org/pdf/2008.11560) [J]. arXiv preprint arXiv:2008.11560. <br> [code:[cap-ntu/FedReID](https://github.com/cap-ntu/FedReID)]
-- [A Performance Evaluation of Federated Learning Algorithms](https://www.researchgate.net/profile/Gregor_Ulm/publication/329106719_A_Performance_Evaluation_of_Federated_Learning_Algorithms/links/5c0fabcfa6fdcc494febf907/A-Performance-Evaluation-of-Federated-Learning-Algorithms.pdf)
-- [Edge AIBench: Towards Comprehensive End-to-end Edge Computing Benchmarking](https://arxiv.org/abs/1908.01924)
+- Gregor Ulm, Emil Gustavsson, Mats Jirstrand .[Functional Federated Learning in Erlang (ffl-erl)](https://arxiv.org/pdf/1808.08143) [J]. arXiv preprint arXiv:1808.08143.
 
 
 
