@@ -42,6 +42,7 @@ The repository collects papers(mainly from arxiv.org), Frameworks, projects, dat
 > * [Projects](https://github.com/ChanChiChoi/awesome-Federated-Learning#projects)
 > * [Datasets && Benchmark](https://github.com/ChanChiChoi/awesome-Federated-Learning#datasets--benchmark)
 > * [Scholars](https://github.com/ChanChiChoi/awesome-Federated-Learning#scholars)
+> * [Conferences and Workshops](https://github.com/ChanChiChoi/awesome-Federated-Learning#conferences-and-workshops)
 > * [Company](https://github.com/ChanChiChoi/awesome-Federated-Learning#company)
 
 also, some papers and links collected from:
@@ -947,5 +948,4 @@ also, some papers and links collected from:
 - [冲量网络](http://www.impulse.top/)   
 ``` [腾讯fele](https://cloud.tencent.com/product/fele)```
 
-## Others
 
