@@ -47,13 +47,13 @@ The repository collects papers(mainly from arxiv.org), Frameworks, projects, dat
 
 also, some papers and links collected from:
 - [1] [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
-- [2] [lokinko/Federated-Learning](https://github.com/lokinko/Federated-Learning)
-- [3] [tushar-semwal/awesome-federated-computing](https://github.com/tushar-semwal/awesome-federated-computing)
-- [4] [poga/awesome-federated-learning](https://github.com/poga/awesome-federated-learning)
-- [5] [timmers/awesome-federated-learning](https://github.com/timmers/awesome-federated-learning)
-- [6] [innovation-cat/Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
-- [7] [ZeroWangZY/federated-learning](https://github.com/ZeroWangZY/federated-learning)
-- [8] [weimingwill/awesome-federated-learning](https://github.com/weimingwill/awesome-federated-learning)
+- [2] [weimingwill/awesome-federated-learning](https://github.com/weimingwill/awesome-federated-learning)
+- [3] [lokinko/Federated-Learning](https://github.com/lokinko/Federated-Learning)
+- [4] [tushar-semwal/awesome-federated-computing](https://github.com/tushar-semwal/awesome-federated-computing)
+- [5] [poga/awesome-federated-learning](https://github.com/poga/awesome-federated-learning)
+- [6] [timmers/awesome-federated-learning](https://github.com/timmers/awesome-federated-learning)
+- [7] [innovation-cat/Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
+- [8] [ZeroWangZY/federated-learning](https://github.com/ZeroWangZY/federated-learning)
 - [9-] [lee-man/federated-learning](https://github.com/lee-man/federated-learning)
 - [10-] [albarqouni/Federated-Learning-In-Healthcare](https://github.com/albarqouni/Federated-Learning-In-Healthcare)
 
