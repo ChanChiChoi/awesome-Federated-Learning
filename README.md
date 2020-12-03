@@ -888,7 +888,7 @@ also, some papers and links collected from:
 - [富数FMPC(Avatar)](https://www.fudata.cn/federated-machine-learning)
 - [华控PrivPy](https://www.tsingj.com/)
 - [平安蜂巢](.)
-- [腾讯 T-Sec](https://cloud.tencent.com/product/fele)  
+- [腾讯 fele](https://cloud.tencent.com/product/fele)
 - [矩阵元JUGO](https://jugo.juzix.net/home);
 - [nvidia clare](https://developer.nvidia.com/clara) 
 - [huawei NAIE](https://console.huaweicloud.com/naie/)
@@ -908,6 +908,5 @@ also, some papers and links collected from:
 - [趣链科技-BitXMesh可信数据网络](https://bitxmesh.com/)
 - [蓝象智联](.)
 - [冲量网络](http://www.impulse.top/)
-
 
 
