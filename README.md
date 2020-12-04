@@ -22,7 +22,7 @@ The repository collects papers(mainly from arxiv.org), Frameworks, projects, dat
 > * [Papers&System][Communication-Efficiency](https://github.com/ChanChiChoi/awesome-Federated-Learning#computation-efficiency)
 > * [Papers&System][Straggler Problem](https://github.com/ChanChiChoi/awesome-Federated-Learning#straggler-problem)
 > * [Papers&System][Computation Efficiency](https://github.com/ChanChiChoi/awesome-Federated-Learning#computation-efficiency)
-> * [Papers&System][Wireless Communication && Cloud Computing && Networking](https://github.com/ChanChiChoi/awesome-Federated-Learning# wireless-communication--cloud-computing-- networking)
+> * [Papers&System][Wireless Communication && Cloud Computing && Networking](https://github.com/ChanChiChoi/awesome-Federated-Learning#wireless-communication--cloud-computing--networking)
 > * [Papers&System][System Design](https://github.com/ChanChiChoi/awesome-Federated-Learning#system-design)
 > * [Papers&Models][Models](https://github.com/ChanChiChoi/awesome-Federated-Learning#models)
 > * [Papers&Applications][Natural language Processing](https://github.com/ChanChiChoi/awesome-Federated-Learning#natural-language-processing)
