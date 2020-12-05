@@ -1038,7 +1038,6 @@ also, some papers and links collected from:
 - [dvc](https://dvc.org/) # unknown
 - [papersdclub/Differentially_private_federated_learning](https://github.com/papersdclub/Differentially_private_federated_learning)
 - [AshwinRJ/Federated-Learning-PyTorch](https://github.com/AshwinRJ/Federated-Learning-PyTorch)
-- [IBM/federated-learning-lib](https://github.com/IBM/federated-learning-lib)
 
 
 ## Datasets && Benchmark
