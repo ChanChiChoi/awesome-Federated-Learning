@@ -1165,16 +1165,16 @@ also, some papers and links collected from:
 |京东云计算有限公司| 京东智联云联邦学习平台|信通院认证|
 |京东数科海益信息科技有限公司| [联邦模盒](https://www.jddglobal.com/products/union-learn)|信通院认证|
 |杭州锘崴信息科技有限公司| [锘崴信联邦学习平台](https://www.nvxclouds.com/)|信通院认证|
-|深圳前海新心数字科技有限公司| 新心数述联邦学习平台|信通院认证|
+|[深圳前海新心数字科技有限公司](https://www.xinxindigits.com/about/services)| 新心数述联邦学习平台|信通院认证|
 |深圳前海微众银行股份有限公司| [联邦学习云服务平台](https://cn.fedai.org/)|信通院认证|
 |上海富数科技有限公司| [阿凡达安全计算平台](https://www.fudata.cn/federated-machine-learning)|信通院认证|
 |天翼电子商务有限公司| CTFL天翼联邦学习平台|信通院认证|
 |中国电信股份有限公司云计算分公司| 天翼云诸葛AI-联邦学习平台|信通院认证|
-|厦门渊亭信息科技有限公司| DataExa-Insight人工智能中台系统|信通院认证|
+|厦门渊亭信息科技有限公司| [DataExa-Insight人工智能中台系统](http://www.dataexa.com/product/insight)|信通院认证|
 |光之树（北京）科技有限公司| [云间联邦学习平台](https://www.guangzhishu.com/)|信通院认证|
-|神谱科技（上海）有限公司| 神谱科技Seceum联邦学习系统|信通院认证|
-|深圳市洞见智慧科技有限公司| 洞见数智联邦平台（INSIGHTONE）|信通院认证|
-|星环信息科技（上海）有限公司| 星环联邦学习软件|信通院认证|
+|神谱科技（上海）有限公司| [神谱科技Seceum联邦学习系统](http://www.seceum.com/home.html)|信通院认证|
+|深圳市洞见智慧科技有限公司| [洞见数智联邦平台（INSIGHTONE）](https://www.insightone.cn/)|信通院认证|
+|[星环信息科技（上海）有限公司](https://www.transwarp.io/transwarp/index.html)| 星环联邦学习软件|信通院认证|
 |华控清交信息科技（北京）有限公司| [清交PrivPy多方计算平台](https://www.tsingj.com/)|信通院认证|
 |腾讯云计算（北京）有限责任公司 |腾讯云联邦学习应用平台软件|信通院认证|
 
@@ -1196,8 +1196,8 @@ also, some papers and links collected from:
 | :-----:| :----: |:---:|
 |北京冲量在线科技有限公司| [冲量数据互联平台](http://www.impulse.top/)|信通院认证|
 |翼健（上海）信息科技有限公司| [翼数坊XDP隐私安全计算平台](https://www.basebit.me/)|信通院认证|
-|上海隔镜信息科技有限公司| 天禄多方安全计算平台|信通院认证|
+|上海隔镜信息科技有限公司| [天禄多方安全计算平台](https://www.trustmirror.com/product/index.html)|信通院认证|
 |杭州锘崴信息科技有限公司| [锘崴信联邦学习平台](https://www.nvxclouds.com/)|信通院认证|
-|蚂蚁智信（杭州）信息技术有限公司| 共享智能平台|信通院认证|
-|华为技术有限公司| 可信智能计算服务TICS|信通院认证|
-|蚂蚁区块链科技（上海）有限公司|  蚂蚁链数据隐私服务|信通院认证|
+|蚂蚁智信（杭州）信息技术有限公司| [共享智能平台](https://blockchain.antgroup.com/solutions/tdsp)|信通院认证|
+|华为技术有限公司| [可信智能计算服务TICS](https://www.huaweicloud.com/product/tics.html)|信通院认证|
+|蚂蚁区块链科技（上海）有限公司|  [蚂蚁链数据隐私服务](https://blockchain.antgroup.com/products/openchain)|信通院认证|
