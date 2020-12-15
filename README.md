@@ -1155,7 +1155,6 @@ also, some papers and links collected from:
 - [摩联科技](https://www.aitos.io/index/index/index.html)
 - [ARPA-ARPA隐私计算协议](https://arpachain.io/)
 - [趣链科技-BitXMesh可信数据网络](https://bitxmesh.com/)
-``` [腾讯fele](https://cloud.tencent.com/product/fele)```
 
 ### 联邦学习工具基础能力测评
 | 公司 | 产品 |认证|
@@ -1177,7 +1176,10 @@ also, some papers and links collected from:
 |深圳市洞见智慧科技有限公司| 洞见数智联邦平台（INSIGHTONE）|信通院认证|
 |星环信息科技（上海）有限公司| 星环联邦学习软件|信通院认证|
 |华控清交信息科技（北京）有限公司| [清交PrivPy多方计算平台](https://www.tsingj.com/)|信通院认证|
-|腾讯云计算（北京）有限责任公司 |[腾讯云联邦学习应用平台软件](https://cloud.tencent.com/product/fele)|信通院认证|
+|腾讯云计算（北京）有限责任公司 |腾讯云联邦学习应用平台软件|信通院认证|
+
+
+``` [腾讯fele](https://cloud.tencent.com/product/fele)```
 
 ### 多方安全计算工具基础能力评测
 | 公司 | 产品 |认证|
