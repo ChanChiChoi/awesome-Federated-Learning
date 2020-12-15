@@ -1186,8 +1186,8 @@ also, some papers and links collected from:
 | :-----:| :----: |:---:|
 |蓝象智联（杭州）科技有限公司| GAIA·Edge (保护数据隐私的多方安全计算产品)|信通院认证|
 |腾讯云计算（北京）有限责任公司| 腾讯神盾Angel PowerFL联邦计算平台|信通院认证|
-|深圳前海微众银行股份有限公司| 联邦学习云服务平台|信通院认证|
-|上海富数科技有限公司| 阿凡达安全计算平台|信通院认证|
+|深圳前海微众银行股份有限公司| [联邦学习云服务平台](https://cn.fedai.org/)|信通院认证|
+|上海富数科技有限公司| [阿凡达安全计算平台](https://www.fudata.cn/federated-machine-learning)|信通院认证|
 |矩阵元技术（深圳）有限公司| [矩阵元隐私计算服务系统](https://jugo.juzix.net/home)|信通院认证|
 |蚂蚁区块链科技(上海)有限公司| [蚂蚁链摩斯安全计算平台（MORSE）](https://antchain.antgroup.com/products/morse)|信通院认证|
 
