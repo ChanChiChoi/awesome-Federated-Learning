@@ -54,6 +54,7 @@ also, some papers and links collected from:
 
 ---
 ## Introduction && Survey
+- Wagner I, Eckhoff D. [Technical privacy metrics: a systematic survey](https://arxiv.org/pdf/1512.00327)[J]. ACM Computing Surveys (CSUR), 2018, 51(3): 1-38.
 - Ben-Nun T, Hoefler T. [Demystifying parallel and distributed deep learning: An in-depth concurrency analysis](https://arxiv.org/pdf/1802.09941)[J]. ACM Computing Surveys (CSUR), 2019, 52(4): 1-43.
 - Vepakomma P, Swedish T, Raskar R, et al. [No Peek: A Survey of private distributed deep learning](https://arxiv.org/pdf/1812.03288.pdf)[J]. arXiv preprint arXiv:1812.03288, 2018.
 - [TIST]Qiang Yang, Yang Liu, Tianjian Chen, Yongxin Tong .[Federated Machine Learning: Concept and Applications](https://arxiv.org/pdf/1902.04885) [J]. arXiv preprint arXiv:1902.04885.
