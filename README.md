@@ -720,6 +720,16 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 
 ## Uncategorized
+### 2002
+- Vaidya J, Clifton C. [Privacy preserving association rule mining in vertically partitioned data](https://www.cs.purdue.edu/homes/clifton/DistDM/kdd02.pdf)[C]//Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining. 2002: 639-644.
+
+### 2003
+- [k-means]Vaidya J, Clifton C. [Privacy-preserving k-means clustering over vertically partitioned data](https://www.cerias.purdue.edu/tools_and_resources/bibtex_archive/archive/2003-47.pdf)[C]//Proceedings of the ninth ACM SIGKDD international conference on Knowledge discovery and data mining. 2003: 206-215.
+
+
+### 2004 
+- [Naive Bayes]Vaidya J, Clifton C. [Privacy preserving naive bayes classifier for vertically partitioned data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.215.2035&rep=rep1&type=pdf)[C]//Proceedings of the 2004 SIAM international conference on data mining. Society for Industrial and Applied Mathematics, 2004: 522-526.
+
 ### 2015
 - Shokri R, Shmatikov V. [Privacy-preserving deep learning](http://www.cs.cornell.edu/~shmat/shmat_ccs15.pdf)[C]//Proceedings of the 22nd ACM SIGSAC conference on computer and communications security. 2015: 1310-1321.
 
