@@ -729,8 +729,9 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 
 ### 2017
+- [SGX]Bahmani R, Barbosa M, Brasser F, et al. [Secure multiparty computation from SGX](https://hal.archives-ouvertes.fr/hal-01898742/file/2016-1057.pdf)[C]//International Conference on Financial Cryptography and Data Security. Springer, Cham, 2017: 477-497.
 - Mohassel P, Zhang Y. Secureml: [A system for scalable privacy-preserving machine learning](http://web.eecs.umich.edu/~mosharaf/Readings/SecureML.pdf)[C]//2017 IEEE Symposium on Security and Privacy (SP). IEEE, 2017: 19-38.
-- Md Nazmus Sadat, Md Momin Al Aziz, Noman Mohammed, Feng Chen, Shuang Wang, Xiaoqian Jiang .[SAFETY: Secure gwAs in Federated Environment Through a hYbrid solution  with Intel SGX and Homomorphic Encryption](https://arxiv.org/pdf/1703.02577) [J]. arXiv preprint arXiv:1703.02577.
+- [SGX]Md Nazmus Sadat, Md Momin Al Aziz, Noman Mohammed, Feng Chen, Shuang Wang, Xiaoqian Jiang .[SAFETY: Secure gwAs in Federated Environment Through a hYbrid solution  with Intel SGX and Homomorphic Encryption](https://arxiv.org/pdf/1703.02577) [J]. arXiv preprint arXiv:1703.02577.
 - [KDD]Yejin Kim, Jimeng Sun, Hwanjo Yu, Xiaoqian Jiang .[Federated Tensor Factorization for Computational Phenotyping](https://arxiv.org/pdf/1704.03141) [J]. arXiv preprint arXiv:1704.03141.
 - Xu Jiang, Nan Guan, Xiang Long, Wang Yi .[Semi-Federated Scheduling of Parallel Real-Time Tasks on Multiprocessors](https://arxiv.org/pdf/1705.03245) [J]. arXiv preprint arXiv:1705.03245.
 - Gabriela Montoya, Hala Skaf-Molli, Katja Hose .[The Odyssey Approach for Optimizing Federated SPARQL Queries](https://arxiv.org/pdf/1705.06135) [J]. arXiv preprint arXiv:1705.06135.
