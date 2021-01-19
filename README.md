@@ -739,6 +739,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 
 ### 2017
+- Aono Y, Hayashi T, Wang L, et al. [Privacy-preserving deep learning via additively homomorphic encryption](https://eprint.iacr.org/2017/715.pdf)[J]. IEEE Transactions on Information Forensics and Security, 2017, 13(5): 1333-1345.
 - [SGX]Bahmani R, Barbosa M, Brasser F, et al. [Secure multiparty computation from SGX](https://hal.archives-ouvertes.fr/hal-01898742/file/2016-1057.pdf)[C]//International Conference on Financial Cryptography and Data Security. Springer, Cham, 2017: 477-497.
 - Mohassel P, Zhang Y. Secureml: [A system for scalable privacy-preserving machine learning](http://web.eecs.umich.edu/~mosharaf/Readings/SecureML.pdf)[C]//2017 IEEE Symposium on Security and Privacy (SP). IEEE, 2017: 19-38.
 - [SGX]Md Nazmus Sadat, Md Momin Al Aziz, Noman Mohammed, Feng Chen, Shuang Wang, Xiaoqian Jiang .[SAFETY: Secure gwAs in Federated Environment Through a hYbrid solution  with Intel SGX and Homomorphic Encryption](https://arxiv.org/pdf/1703.02577) [J]. arXiv preprint arXiv:1703.02577.
