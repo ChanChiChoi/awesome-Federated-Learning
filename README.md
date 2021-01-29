@@ -92,6 +92,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - Seyyedali Hosseinalipour, Christopher G. Brinton, Vaneet Aggarwal, Huaiyu Dai, Mung Chiang .[From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks](https://arxiv.org/pdf/2006.03594) [J]. arXiv preprint arXiv:2006.03594.
 - Gupta A, Lanteigne C, Kingsley S. [SECure: A Social and Environmental Certificate for AI Systems](https://arxiv.org/pdf/2006.06217)[J]. arXiv preprint arXiv:2006.06217, 2020.
 - Yang M, Lyu L, Zhao J, et al. [Local differential privacy and its applications: A comprehensive survey](https://arxiv.org/pdf/2008.03686)[J]. arXiv preprint arXiv:2008.03686, 2020.
+- Huang W, Zhou S, Zhu T, et al. [the Connection between Cryptography and Differential Privacy: a Survey](https://arxiv.org/pdf/2011.00976)[J]. arXiv preprint arXiv:2011.00976, 2020.
 
 
 ## Distributed Optimization
