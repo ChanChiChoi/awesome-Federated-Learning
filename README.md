@@ -56,8 +56,18 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ---
 ## Introduction && Survey
+- Dwork, C. (2008). [Differential privacy: a survey of results](https://www.researchgate.net/profile/Minzhu_Xie2/publication/220908334_A_Practical_Parameterized_Algorithm_for_the_Individual_Haplotyping_Problem_MLF/links/0deec5328063473edc000000/A-Practical-Parameterized-Algorithm-for-the-Individual-Haplotyping-Problem-MLF.pdf#page=12). In TAMC’08 Proceedings of the 5th international conference on Theory and applications of models of computation (Vol. 4978, pp. 1–19).
+- Dwork C. [Differential privacy in new settings](https://core.ac.uk/download/pdf/187048361.pdf)[C]//Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete Algorithms. Society for Industrial and Applied Mathematics, 2010: 174-183.
+- Dwork C.  [A firm foundation for private data analysis](http://www.mathcs.emory.edu/~lxiong/cs573_f18/share/readings/firm-CACM-2011.pdf) Communications of the ACM, vol. 54, no. 1, pp. 86–95, 2011
+- [BOOK]Dwork C, Roth A. [The algorithmic foundations of differential privacy](http://www.tau.ac.il/~saharon/BigData2018/privacybook.pdf)[J]. Foundations and Trends in Theoretical Computer Science, 2014, 9(3-4): 211-407.
+- Yu S. [Big privacy: Challenges and opportunities of privacy study in the age of big data](https://ieeexplore.ieee.org/iel7/6287639/6514899/07485855.pdf)[J]. IEEE access, 2016, 4: 2751-2763.
+- Zhu T, Li G, Zhou W, et al. Differentially private data publishing and analysis: A survey[J]. IEEE Transactions on Knowledge and Data Engineering, 2017, 29(8): 1619-1638.
+- Vadhan S. [The complexity of differential privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/manuscript_2016.pdf)[M]//Tutorials on the Foundations of Cryptography. Springer, Cham, 2017: 347-450.
+- Zhao P, Zhang G, Wan S, et al. [A survey of local differential privacy for securing internet of vehicles](https://www.researchgate.net/profile/Ping_Zhao41/publication/337842824_A_survey_of_local_differential_privacy_for_securing_internet_of_vehicles/links/5fd7308b45851553a0b573ca/A-survey-of-local-differential-privacy-for-securing-internet-of-vehicles.pdf)[J]. The Journal of Supercomputing, 2019: 1-22.
+- Pejó B, Desfontaines D. [SoK: differential privacies](https://research.google/pubs/pub48777.pdf)[J]. 2020.
 - Wagner I, Eckhoff D. [Technical privacy metrics: a systematic survey](https://arxiv.org/pdf/1512.00327)[J]. ACM Computing Surveys (CSUR), 2018, 51(3): 1-38.
 - Ben-Nun T, Hoefler T. [Demystifying parallel and distributed deep learning: An in-depth concurrency analysis](https://arxiv.org/pdf/1802.09941)[J]. ACM Computing Surveys (CSUR), 2019, 52(4): 1-43.
+- Hassan M U, Rehmani M H, Chen J. [Differential privacy techniques for cyber physical systems: a survey](https://arxiv.org/pdf/1812.02282)[J]. IEEE Communications Surveys & Tutorials, 2019, 22(1): 746-789.
 - Vepakomma P, Swedish T, Raskar R, et al. [No Peek: A Survey of private distributed deep learning](https://arxiv.org/pdf/1812.03288.pdf)[J]. arXiv preprint arXiv:1812.03288, 2018.
 - [TIST]Qiang Yang, Yang Liu, Tianjian Chen, Yongxin Tong .[Federated Machine Learning: Concept and Applications](https://arxiv.org/pdf/1902.04885) [J]. arXiv preprint arXiv:1902.04885.
 - Han Y, Wang X, Leung V, et al. [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf)[J]. arXiv preprint arXiv:1907.08349, 2019.
@@ -81,6 +91,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - Yi Liu, Xingliang Yuan, Zehui Xiong, Jiawen Kang, Xiaofei Wang, Dusit Niyato .[Federated Learning for 6G Communications: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/2006.02931) [J]. arXiv preprint arXiv:2006.02931.
 - Seyyedali Hosseinalipour, Christopher G. Brinton, Vaneet Aggarwal, Huaiyu Dai, Mung Chiang .[From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks](https://arxiv.org/pdf/2006.03594) [J]. arXiv preprint arXiv:2006.03594.
 - Gupta A, Lanteigne C, Kingsley S. [SECure: A Social and Environmental Certificate for AI Systems](https://arxiv.org/pdf/2006.06217)[J]. arXiv preprint arXiv:2006.06217, 2020.
+- Yang M, Lyu L, Zhao J, et al. [Local differential privacy and its applications: A comprehensive survey](https://arxiv.org/pdf/2008.03686)[J]. arXiv preprint arXiv:2008.03686, 2020.
 
 
 ## Distributed Optimization
