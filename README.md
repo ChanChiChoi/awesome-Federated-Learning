@@ -92,6 +92,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - Seyyedali Hosseinalipour, Christopher G. Brinton, Vaneet Aggarwal, Huaiyu Dai, Mung Chiang .[From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks](https://arxiv.org/pdf/2006.03594) [J]. arXiv preprint arXiv:2006.03594.
 - Gupta A, Lanteigne C, Kingsley S. [SECure: A Social and Environmental Certificate for AI Systems](https://arxiv.org/pdf/2006.06217)[J]. arXiv preprint arXiv:2006.06217, 2020.
 - Yang M, Lyu L, Zhao J, et al. [Local differential privacy and its applications: A comprehensive survey](https://arxiv.org/pdf/2008.03686)[J]. arXiv preprint arXiv:2008.03686, 2020.
+- Huang W, Zhou S, Zhu T, et al. [the Connection between Cryptography and Differential Privacy: a Survey](https://arxiv.org/pdf/2011.00976)[J]. arXiv preprint arXiv:2011.00976, 2020.
 
 
 ## Distributed Optimization
@@ -439,17 +440,42 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 
 ## Incentive Mechanism && Fairness
-- Zhan Y, Li P, Qu Z, et al. [A learning-based incentive mechanism for federated learning](https://www.u-aizu.ac.jp/~pengli/files/fl_incentive_iot.pdf)[J]. IEEE Internet of Things Journal, 2020.
-- [ICML]Mehryar Mohri, Gary Sivek, Ananda Theertha Suresh .[Agnostic Federated Learning](https://arxiv.org/pdf/1902.00146) [J]. arXiv preprint arXiv:1902.00146.
-- [good]Keith Bonawitz, Hubert Eichner, Wolfgang Grieskamp, Dzmitry Huba, Alex Ingerman, Vladimir Ivanov, Chloe Kiddon, Jakub Konecny, Stefano Mazzocchi, H. Brendan McMahan, Timon Van Overveldt, David Petrou, Daniel Ramage, Jason Roselander .[Towards Federated Learning at Scale: System Design](https://arxiv.org/pdf/1902.01046) [J]. arXiv preprint arXiv:1902.01046.
-- Jiawen Kang, Zehui Xiong, Dusit Niyato, Han Yu, Ying-Chang Liang, Dong In Kim .[Incentive Design for Efficient Federated Learning in Mobile Networks: A Contract Theory Approach](https://arxiv.org/pdf/1905.07479) [J]. arXiv preprint arXiv:1905.07479.
-- [ICLR]Tian Li, Maziar Sanjabi, Virginia Smith .[Fair Resource Allocation in Federated Learning](https://arxiv.org/pdf/1905.10497) [J]. arXiv preprint arXiv:1905.10497.<br>[code:[litian96/fair_flearn](https://github.com/litian96/fair_flearn)]
-- Lyu L, Yu J, Nandakumar K, et al. [Towards Fair and Privacy-Preserving Federated Deep Models](https://arxiv.org/pdf/1906.01167)[J]. IEEE Transactions on Parallel and Distributed Systems, 2020, 31(11): 2524-2541.
-- Yunus Sarikaya, Ozgur Ercetin .[Motivating Workers in Federated Learning: A Stackelberg Game Perspective](https://arxiv.org/pdf/1908.03092) [J]. arXiv preprint arXiv:1908.03092.
-- Latif U. Khan, Nguyen H. Tran, Shashi Raj Pandey, Walid Saad, Zhu Han, Minh N. H. Nguyen, Choong Seon Hong .[Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism](https://arxiv.org/pdf/1911.05642) [J]. arXiv preprint arXiv:1911.05642.
-- Yutao Jiao, Ping Wang, Dusit Niyato, Bin Lin, Dong In Kim .[Toward an Automated Auction Framework for Wireless Federated Learning Services Market](https://arxiv.org/pdf/1912.06370) [J]. arXiv preprint arXiv:1912.06370.
-- Rongfei Zeng, Shixun Zhang, Jiaqi Wang, Xiaowen Chu .[FMore: An Incentive Scheme of Multi-dimensional Auction for Federated Learning in MEC](https://arxiv.org/pdf/2002.09699) [J]. arXiv preprint arXiv:2002.09699.
-- Jingfeng Zhang, Cheng Li, Antonio Robles-Kelly, Mohan Kankanhalli .[Hierarchically Fair Federated Learning](https://arxiv.org/pdf/2004.10386) [J]. arXiv preprint arXiv:2004.10386.
+- Dwork, C. (2008). [Differential privacy: a survey of results](https://www.researchgate.net/profile/Minzhu_Xie2/publication/220908334_A_Practical_Parameterized_Algorithm_for_the_Individual_Haplotyping_Problem_MLF/links/0deec5328063473edc000000/A-Practical-Parameterized-Algorithm-for-the-Individual-Haplotyping-Problem-MLF.pdf#page=12). In TAMC’08 Proceedings of the 5th international conference on Theory and applications of models of computation (Vol. 4978, pp. 1–19).
+- Dwork C. [Differential privacy in new settings](https://core.ac.uk/download/pdf/187048361.pdf)[C]//Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete Algorithms. Society for Industrial and Applied Mathematics, 2010: 174-183.
+- Dwork C.  [A firm foundation for private data analysis](http://www.mathcs.emory.edu/~lxiong/cs573_f18/share/readings/firm-CACM-2011.pdf) Communications of the ACM, vol. 54, no. 1, pp. 86–95, 2011
+- [BOOK]Dwork C, Roth A. [The algorithmic foundations of differential privacy](http://www.tau.ac.il/~saharon/BigData2018/privacybook.pdf)[J]. Foundations and Trends in Theoretical Computer Science, 2014, 9(3-4): 211-407.
+- Yu S. [Big privacy: Challenges and opportunities of privacy study in the age of big data](https://ieeexplore.ieee.org/iel7/6287639/6514899/07485855.pdf)[J]. IEEE access, 2016, 4: 2751-2763.
+- Zhu T, Li G, Zhou W, et al. Differentially private data publishing and analysis: A survey[J]. IEEE Transactions on Knowledge and Data Engineering, 2017, 29(8): 1619-1638.
+- Vadhan S. [The complexity of differential privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/manuscript_2016.pdf)[M]//Tutorials on the Foundations of Cryptography. Springer, Cham, 2017: 347-450.
+- Zhao P, Zhang G, Wan S, et al. [A survey of local differential privacy for securing internet of vehicles](https://www.researchgate.net/profile/Ping_Zhao41/publication/337842824_A_survey_of_local_differential_privacy_for_securing_internet_of_vehicles/links/5fd7308b45851553a0b573ca/A-survey-of-local-differential-privacy-for-securing-internet-of-vehicles.pdf)[J]. The Journal of Supercomputing, 2019: 1-22.
+- Pejó B, Desfontaines D. [SoK: differential privacies](https://research.google/pubs/pub48777.pdf)[J]. 2020.
+- Wagner I, Eckhoff D. [Technical privacy metrics: a systematic survey](https://arxiv.org/pdf/1512.00327)[J]. ACM Computing Surveys (CSUR), 2018, 51(3): 1-38.
+- Ben-Nun T, Hoefler T. [Demystifying parallel and distributed deep learning: An in-depth concurrency analysis](https://arxiv.org/pdf/1802.09941)[J]. ACM Computing Surveys (CSUR), 2019, 52(4): 1-43.
+- Hassan M U, Rehmani M H, Chen J. [Differential privacy techniques for cyber physical systems: a survey](https://arxiv.org/pdf/1812.02282)[J]. IEEE Communications Surveys & Tutorials, 2019, 22(1): 746-789.
+- Vepakomma P, Swedish T, Raskar R, et al. [No Peek: A Survey of private distributed deep learning](https://arxiv.org/pdf/1812.03288.pdf)[J]. arXiv preprint arXiv:1812.03288, 2018.
+- [TIST]Qiang Yang, Yang Liu, Tianjian Chen, Yongxin Tong .[Federated Machine Learning: Concept and Applications](https://arxiv.org/pdf/1902.04885) [J]. arXiv preprint arXiv:1902.04885.
+- Han Y, Wang X, Leung V, et al. [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf)[J]. arXiv preprint arXiv:1907.08349, 2019.
+- Qinbin Li, Zeyi Wen, Bingsheng He .[Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693) [J]. arXiv preprint arXiv:1907.09693.
+- Solmaz Niknam, Harpreet S. Dhillon, Jeffery H. Reed .[Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/pdf/1908.06847) [J]. arXiv preprint arXiv:1908.06847.
+- Tian Li, Anit Kumar Sahu, Ameet Talwalkar, Virginia Smith .[Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/1908.07873) [J]. arXiv preprint arXiv:1908.07873.
+- Wei Yang Bryan Lim, Nguyen Cong Luong, Dinh Thai Hoang, Yutao Jiao, Ying-Chang Liang, Qiang Yang, Dusit Niyato, Chunyan Miao .[Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/pdf/1909.11875) [J]. arXiv preprint arXiv:1909.11875.
+- D. Verma, S. Calo, S. Witherspoon, E. Bertino, A. Abu Jabal, A. Swami, G. Cirincione, S. Julier, G. White, G. de Mel, G. Pearson .[Federated Learning for Coalition Operations](https://arxiv.org/pdf/1910.06799) [J]. arXiv preprint arXiv:1910.06799.
+- Hsieh K. [Machine Learning Systems for Highly-Distributed and Rapidly-Growing Data](https://arxiv.org/pdf/1910.08663)[J]. arXiv preprint arXiv:1910.08663, 2019.
+- Bhardwaj K, Suda N, [Marculescu R. EdgeAI: A Vision for Deep Learning in IoT Era](https://arxiv.org/pdf/1910.10356)[J]. IEEE Design & Test, 2019.
+- Jie Xu, Fei Wang .[Federated Learning for Healthcare Informatics](https://arxiv.org/pdf/1911.06270) [J]. arXiv preprint arXiv:1911.06270.
+- Lan Q, Zhang Z, Du Y, et al. [An Introduction to Communication Efficient Edge Machine Learning](https://arxiv.org/pdf/1912.01554)[J]. arXiv preprint arXiv:1912.01554, 2019.
+- Anudit Nagar .[Privacy-Preserving Blockchain Based Federated Learning with Differential Data Sharing](https://arxiv.org/pdf/1912.04859) [J]. arXiv preprint arXiv:1912.04859.
+- [good]Peter Kairouz, H. Brendan McMahan, Brendan Avent, Aurélien Bellet, Mehdi Bennis, Arjun Nitin Bhagoji, Keith Bonawitz, Zachary Charles, Graham Cormode, Rachel Cummings, Rafael G.L. D'Oliveira, Salim El Rouayheb, David Evans, Josh Gardner, Zachary Garrett, Adrià Gascón, Badih Ghazi, Phillip B. Gibbons, Marco Gruteser, Zaid Harchaoui, Chaoyang He, Lie He, Zhouyuan Huo, Ben Hutchinson, Justin Hsu, Martin Jaggi, Tara Javidi, Gauri Joshi, Mikhail Khodak, Jakub Konečný, Aleksandra Korolova, Farinaz Koushanfar, Sanmi Koyejo, Tancrède Lepoint, Yang Liu, Prateek Mittal, Mehryar Mohri, Richard Nock, Ayfer Özgür, Rasmus Pagh, Mariana Raykova, Hang Qi, Daniel Ramage, Ramesh Raskar, Dawn Song, Weikang Song, Sebastian U. Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramèr, Praneeth Vepakomma, Jianyu Wang, Li Xiong, Zheng Xu, Qiang Yang, Felix X. Yu, Han Yu, Sen Zhao .[Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977) [J]. arXiv preprint arXiv:1912.04977.
+- Shi Y, Yang K, Jiang T, et al. [Communication-efficient edge AI: Algorithms and systems](https://arxiv.org/pdf/2002.09668)[J]. arXiv preprint arXiv:2002.09668, 2020.
+- Ahmed Imteaj, Urmish Thakker, Shiqiang Wang, Jian Li, M. Hadi Amini .[Federated Learning for Resource-Constrained IoT Devices: Panoramas and State-of-the-art](https://arxiv.org/pdf/2002.10610) [J]. arXiv preprint arXiv:2002.10610.
+- Yilun Jin, Xiguang Wei, Yang Liu, Qiang Yang .[A Survey towards Federated Semi-supervised Learning](https://arxiv.org/pdf/2002.11545) [J]. arXiv preprint arXiv:2002.11545.
+- Lingjuan Lyu, Han Yu, Qiang Yang .[Threats to Federated Learning: A Survey](https://arxiv.org/pdf/2003.02133) [J]. arXiv preprint arXiv:2003.02133.
+- Viraj Kulkarni, Milind Kulkarni, Aniruddha Pant .[Survey of Personalization Techniques for Federated Learning](https://arxiv.org/pdf/2003.08673) [J]. arXiv preprint arXiv:2003.08673.
+- Christopher Briggs, Zhong Fan, Peter Andras .[A Review of Privacy Preserving Federated Learning for Private IoT Analytics](https://arxiv.org/pdf/2004.11794) [J]. arXiv preprint arXiv:2004.11794.
+- Yi Liu, Xingliang Yuan, Zehui Xiong, Jiawen Kang, Xiaofei Wang, Dusit Niyato .[Federated Learning for 6G Communications: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/2006.02931) [J]. arXiv preprint arXiv:2006.02931.
+- Seyyedali Hosseinalipour, Christopher G. Brinton, Vaneet Aggarwal, Huaiyu Dai, Mung Chiang .[From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks](https://arxiv.org/pdf/2006.03594) [J]. arXiv preprint arXiv:2006.03594.
+- Gupta A, Lanteigne C, Kingsley S. [SECure: A Social and Environmental Certificate for AI Systems](https://arxiv.org/pdf/2006.06217)[J]. arXiv preprint arXiv:2006.06217, 2020.
+- Yang M, Lyu L, Zhao J, et al. [Local differential privacy and its applications: A comprehensive survey](https://arxiv.org/pdf/2008.03686)[J]. arXiv preprint arXiv:2008.03686, 2020.
 
 
 ## Communication-Efficiency
