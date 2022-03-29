@@ -98,7 +98,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Distributed Optimization
 - Konečný J, McMahan B, Ramage D. [Federated optimization: Distributed optimization beyond the datacenter](https://arxiv.org/pdf/1511.03575)[J]. arXiv preprint arXiv:1511.03575, 2015.
-- [Baseline]Brendan McMahan H, Moore E, Ramage D, et al. [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)[J]. arXiv, 2016: arXiv: 1602.05629.
+- 【FedAvg】[Baseline]Brendan McMahan H, Moore E, Ramage D, et al. [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)[J]. arXiv, 2016: arXiv: 1602.05629.
 - Jakub Konečný, H. Brendan McMahan, Daniel Ramage, Peter Richtárik .[Federated Optimization: Distributed Machine Learning for On-Device  Intelligence](https://arxiv.org/pdf/1610.02527) [J]. arXiv preprint arXiv:1610.02527.
 - [NIPS]Virginia Smith, Chao-Kai Chiang, Maziar Sanjabi, Ameet Talwalkar .[Federated Multi-Task Learning](https://arxiv.org/pdf/1705.10467) [J]. arXiv preprint arXiv:1705.10467.
 - Jiang Z, Balu A, Hegde C, et al. [Collaborative Deep Learning in Fixed Topology Networks](https://arxiv.org/pdf/1706.07880.pdf)[J]. arXiv preprint arXiv:1706.07880, 2017.
@@ -953,7 +953,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci .[How to Put Users in Control of their Data via Federated Pair-Wise Recommendation](https://arxiv.org/pdf/2008.07192) [J]. arXiv preprint arXiv:2008.07192.
 - Yuan Liang, Yange Guo, Yanxia Gong, Chunjie Luo, Jianfeng Zhan, Yunyou Huang .[An Isolated Data Island Benchmark Suite for Federated Learning](https://arxiv.org/pdf/2008.07257) [J]. arXiv preprint arXiv:2008.07257.
 - Buse Gul Atli, Yuxi Xia, Samuel Marchal, N. Asokan .[WAFFLE: Watermarking in Federated Learning](https://arxiv.org/pdf/2008.07298) [J]. arXiv preprint arXiv:2008.07298.
-- Mathieu Andreux, Jean Ogier du Terrail, Constance Beguier, Eric W. Tramel .[Siloed Federated Learning for Multi-Centric Histopathology Datasets](https://arxiv.org/pdf/2008.07424) [J]. arXiv preprint arXiv:2008.07424.
+- 【SiloBN】Mathieu Andreux, Jean Ogier du Terrail, Constance Beguier, Eric W. Tramel .[Siloed Federated Learning for Multi-Centric Histopathology Datasets](https://arxiv.org/pdf/2008.07424) [J]. arXiv preprint arXiv:2008.07424.
 - Minchul Kim, Jungwoo Lee .[Information-Theoretic Privacy in Federated Submodel learning](https://arxiv.org/pdf/2008.07656) [J]. arXiv preprint arXiv:2008.07656.
 - [MICCAIW]Yousef Yeganeh, Azade Farshad, Nassir Navab, Shadi Albarqouni .[Inverse Distance Aggregation for Federated Learning with Non-IID Data](https://arxiv.org/pdf/2008.07665) [J]. arXiv preprint arXiv:2008.07665.
 - Junjie Tan, Ying-Chang Liang, Nguyen Cong Luong, Dusit Niyato .[Toward Smart Security Enhancement of Federated Learning Networks](https://arxiv.org/pdf/2008.08330) [J]. arXiv preprint arXiv:2008.08330.
@@ -1278,7 +1278,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - Canh T. Dinh, Tung T. Vu, Nguyen H. Tran, Minh N. Dao, Hongyu Zhang .[FedU: A Unified Framework for Federated Multi-Task Learning with Laplacian Regularization](https://arxiv.org/pdf/2102.07148) [J]. arXiv preprint arXiv:2102.07148.
 - Ahmet M. Elbir, Sinem Coleri, Kumar Vijay Mishra .[Federated Dropout Learning for Hybrid Beamforming With Spatial Path Index Modulation In Multi-User mmWave-MIMO Systems](https://arxiv.org/pdf/2102.07450) [J]. arXiv preprint arXiv:2102.07450.
 - Ahmed M. Abdelmoniem, Chen-Yu Ho, Pantelis Papageorgiou, Muhammad Bilal, Marco Canini .[On the Impact of Device and Behavioral Heterogeneity in Federated Learning](https://arxiv.org/pdf/2102.07500) [J]. arXiv preprint arXiv:2102.07500.
-- Xiaoxiao Li, Meirui Jiang, Xiaofei Zhang, Michael Kamp, Qi Dou .[FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://arxiv.org/pdf/2102.07623) [J]. arXiv preprint arXiv:2102.07623.
+- 【FedBN】Xiaoxiao Li, Meirui Jiang, Xiaofei Zhang, Michael Kamp, Qi Dou .[FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://arxiv.org/pdf/2102.07623) [J]. arXiv preprint arXiv:2102.07623.
 - Xinchi Qiu, Titouan Parcollet, Javier Fernandez-Marques, Pedro Porto Buarque de Gusmao, Daniel J. Beutel, Taner Topal, Akhil Mathur, Nicholas D. Lane .[A first look into the carbon footprint of federated learning](https://arxiv.org/pdf/2102.07627) [J]. arXiv preprint arXiv:2102.07627.
 - Junshan Zhang, Na Li, Mehmet Dedeoglu .[Federated Learning over Wireless Networks: A Band-limited Coordinated Descent Approach](https://arxiv.org/pdf/2102.07972) [J]. arXiv preprint arXiv:2102.07972.
 - Jinjin Xu, Yaochu Jin, Wenli Du, Sai Gu .[A Federated Data-Driven Evolutionary Algorithm](https://arxiv.org/pdf/2102.08288) [J]. arXiv preprint arXiv:2102.08288.
