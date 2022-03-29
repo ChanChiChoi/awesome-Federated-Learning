@@ -50,6 +50,7 @@ also, some papers and links collected from:
 - [8-] [ZeroWangZY/federated-learning](https://github.com/ZeroWangZY/federated-learning)
 - [9-] [lee-man/federated-learning](https://github.com/lee-man/federated-learning)
 - [10-] [albarqouni/Federated-Learning-In-Healthcare](https://github.com/albarqouni/Federated-Learning-In-Healthcare)
+- [11][huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers)
 
 
 ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Methods; DP:Differential Privacy; MA:Model Aggregation
@@ -2323,7 +2324,10 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - [PaddlePaddle/PaddleFL](https://github.com/PaddlePaddle/PaddleFL)
 - [flower](https://flower.dev/)
 - [facebookresearch/CrypTen](https://github.com/facebookresearch/CrypTen)
-
+- [SMILELab-FL/FedLab](https://github.com/SMILELab-FL/FedLab)
+- [cyqclark/fedlearn-algo](https://github.com/cyqclark/fedlearn-algo)
+- [scaleoutsystems/fedn](https://github.com/scaleoutsystems/fedn)
+- [intel/openfl](https://github.com/intel/openfl)
 
 ## Projects
 - [shashigharti/federated-learning-on-raspberry-pi](https://github.com/shashigharti/federated-learning-on-raspberry-pi)
