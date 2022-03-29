@@ -2328,6 +2328,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - [cyqclark/fedlearn-algo](https://github.com/cyqclark/fedlearn-algo)
 - [scaleoutsystems/fedn](https://github.com/scaleoutsystems/fedn)
 - [intel/openfl](https://github.com/intel/openfl)
+- [NVIDIA Clara](https://developer.nvidia.com/clara)
 
 ## Projects
 - [shashigharti/federated-learning-on-raspberry-pi](https://github.com/shashigharti/federated-learning-on-raspberry-pi)
