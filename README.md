@@ -2331,6 +2331,9 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - [scaleoutsystems/fedn](https://github.com/scaleoutsystems/fedn)
 - [intel/openfl](https://github.com/intel/openfl)
 - [NVIDIA Clara](https://developer.nvidia.com/clara)
+- [xaynetwork/xaynet](https://github.com/xaynetwork/xaynet)
+- [google/fedjax](https://github.com/google/fedjax)
+- [alibaba/FederatedScope](https://github.com/alibaba/FederatedScope)
 
 ## Projects
 - [shashigharti/federated-learning-on-raspberry-pi](https://github.com/shashigharti/federated-learning-on-raspberry-pi)
@@ -2340,6 +2343,8 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - [dvc](https://dvc.org/) # unknown
 - [papersdclub/Differentially_private_federated_learning](https://github.com/papersdclub/Differentially_private_federated_learning)
 - [AshwinRJ/Federated-Learning-PyTorch](https://github.com/AshwinRJ/Federated-Learning-PyTorch)
+- [OpenMined/PyVertical](https://github.com/OpenMined/PyVertical)
+- [GalaxyLearning/GFL](https://github.com/GalaxyLearning/GFL/blob/master/README_cn.md)
 
 
 ## Datasets && Benchmark
