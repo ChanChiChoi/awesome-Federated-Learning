@@ -2351,6 +2351,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - [LabeliaLabs/distributed-learning-contributivity](https://github.com/LabeliaLabs/distributed-learning-contributivity)
 - [ownership-labs/OpenHealth](https://github.com/ownership-labs/OpenHealth)
 - [wnma3mz/flearn](https://github.com/wnma3mz/flearn)
+- [FELToken/federated-learning-token](https://github.com/FELToken/federated-learning-token)
 
 
 ## Datasets && Benchmark
