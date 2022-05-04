@@ -2331,9 +2331,12 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - [scaleoutsystems/fedn](https://github.com/scaleoutsystems/fedn)
 - [intel/openfl](https://github.com/intel/openfl)
 - [NVIDIA Clara](https://developer.nvidia.com/clara)
+- [EasyFL-AI/EasyFL](https://github.com/EasyFL-AI/EasyFL)
 - [xaynetwork/xaynet](https://github.com/xaynetwork/xaynet)
 - [google/fedjax](https://github.com/google/fedjax)
 - [alibaba/FederatedScope](https://github.com/alibaba/FederatedScope)
+- [epfml/disco](https://github.com/epfml/disco)
+- [FederalLab/OpenFed](https://github.com/FederalLab/OpenFed)
 
 ## Projects
 - [shashigharti/federated-learning-on-raspberry-pi](https://github.com/shashigharti/federated-learning-on-raspberry-pi)
@@ -2345,6 +2348,9 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - [AshwinRJ/Federated-Learning-PyTorch](https://github.com/AshwinRJ/Federated-Learning-PyTorch)
 - [OpenMined/PyVertical](https://github.com/OpenMined/PyVertical)
 - [GalaxyLearning/GFL](https://github.com/GalaxyLearning/GFL/blob/master/README_cn.md)
+- [LabeliaLabs/distributed-learning-contributivity](https://github.com/LabeliaLabs/distributed-learning-contributivity)
+- [ownership-labs/OpenHealth](https://github.com/ownership-labs/OpenHealth)
+- [wnma3mz/flearn](https://github.com/wnma3mz/flearn)
 
 
 ## Datasets && Benchmark
