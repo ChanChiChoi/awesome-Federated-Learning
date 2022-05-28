@@ -2319,6 +2319,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - [FederatedAI/FATE](https://github.com/FederatedAI/FATE);   [DOC](https://fate.readthedocs.io/en/latest/index.html);   [VIDEO](https://edu.51cto.com/lesson/513105)
 - [jd-9n/9nfl](https://github.com/jd-9n/9nfl)
 - [tensorflow/federated](https://github.com/tensorflow/federated)
+- [LatticeX-Foundation/Rosetta](https://github.com/LatticeX-Foundation/Rosetta)
 - [bytedance/fedlearner](https://github.com/bytedance/fedlearner)
 - [FedML-AI/FedML](https://github.com/FedML-AI/FedML)
 - [IBM/federated-learning-lib](https://github.com/IBM/federated-learning-lib)
