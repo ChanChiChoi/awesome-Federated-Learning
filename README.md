@@ -2336,6 +2336,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - [xaynetwork/xaynet](https://github.com/xaynetwork/xaynet)
 - [google/fedjax](https://github.com/google/fedjax)
 - [alibaba/FederatedScope](https://github.com/alibaba/FederatedScope)
+- [secretflow隐语](https://github.com/secretflow)
 - [deltampc](https://deltampc.com/)
 - [epfml/disco](https://github.com/epfml/disco)
 - [FederalLab/OpenFed](https://github.com/FederalLab/OpenFed)
