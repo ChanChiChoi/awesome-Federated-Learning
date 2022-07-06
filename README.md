@@ -2342,6 +2342,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - [FederalLab/OpenFed](https://github.com/FederalLab/OpenFed)
 
 ## Projects
+- [osu-crypto/libPSI](https://github.com/osu-crypto/libPSI)
 - [shashigharti/federated-learning-on-raspberry-pi](https://github.com/shashigharti/federated-learning-on-raspberry-pi)
 - [shaoxiongji/federated-learning](https://github.com/shaoxiongji/federated-learning)
 - [mccorby](https://github.com/mccorby)
