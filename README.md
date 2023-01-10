@@ -94,6 +94,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - Gupta A, Lanteigne C, Kingsley S. [SECure: A Social and Environmental Certificate for AI Systems](https://arxiv.org/pdf/2006.06217)[J]. arXiv preprint arXiv:2006.06217, 2020.
 - Yang M, Lyu L, Zhao J, et al. [Local differential privacy and its applications: A comprehensive survey](https://arxiv.org/pdf/2008.03686)[J]. arXiv preprint arXiv:2008.03686, 2020.
 - Huang W, Zhou S, Zhu T, et al. [the Connection between Cryptography and Differential Privacy: a Survey](https://arxiv.org/pdf/2011.00976)[J]. arXiv preprint arXiv:2011.00976, 2020.
+- Zhifeng Jiang, Wei Wang, Bo Li, Qiang Yang. [Towards Efficient Synchronous Federated Training: A Survey on System Optimization Strategies](https://ieeexplore.ieee.org/document/9780218) [J]. IEEE TBD 2022
 
 
 ## Distributed Optimization
@@ -516,6 +517,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 - Linara Adilova, Julia Rosenzweig, Michael Kamp .[Information-Theoretic Perspective of Federated Learning](https://arxiv.org/pdf/1911.07652) [J]. arXiv preprint arXiv:1911.07652.
 - Jinhyun So, Basak Guler, A. Salman Avestimehr .[Turbo-Aggregate: Breaking the Quadratic Aggregation Barrier in Secure Federated Learning](https://arxiv.org/pdf/2002.04156) [J]. arXiv preprint arXiv:2002.04156.
 - Sagar Dhakal, Saurav Prakash, Yair Yona, Shilpa Talwar, Nageen Himayat .[Coded Federated Learning](https://arxiv.org/pdf/2002.09574) [J]. arXiv preprint arXiv:2002.09574.
+- Zhifeng Jiang, Wei Wang, Baochun Li, Bo Li. [Pisces: Efficient Federated Learning via Guided Asynchronous Training](https://dl.acm.org/doi/abs/10.1145/3542929.3563463) [J] ACM SoCC 2022
 
 
 ## Computation Efficiency
